@@ -1,0 +1,2120 @@
+#EXTM3U
+#EXTINF:-1,US_CBS
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2852.ts
+#EXTINF:-1,US_TSN 1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2248.ts
+#EXTINF:-1,US_TSN 2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2249.ts
+#EXTINF:-1,US_TSN 3
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2250.ts
+#EXTINF:-1,US_TSN 4
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2251.ts
+#EXTINF:-1,US_TSN 5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2252.ts
+#EXTINF:-1,US_Network
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2851.ts
+#EXTINF:-1,US_NFL_LIVE
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2850.ts
+#EXTINF:-1,US_WWE_Network
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2848.ts
+#EXTINF:-1,US_Fox Sports  1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2254.ts
+#EXTINF:-1,US_Fox Sports  2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2255.ts
+#EXTINF:-1,US_FIGHT_SPORT
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2853.ts
+#EXTINF:-1,US_NBC_SPORT
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2854.ts
+#EXTINF:-1,US_NBA
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2253.ts
+#EXTINF:-1,US_ESPN
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2256.ts
+#EXTINF:-1,US_HBO
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2855.ts
+#EXTINF:-1,US_Nasa
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2849.ts
+
+#EXTINF:-1,CA | A&E
+http://wildsides.xyz:2086/live/ola/12345/12158.ts
+#EXTINF:-1,CA | ABC SPARK
+http://wildsides.xyz:2086/live/ola/12345/12157.ts
+#EXTINF:-1,CA | ACTION
+http://wildsides.xyz:2086/live/ola/12345/13978.ts
+#EXTINF:-1,CA | ADDIK TV
+http://wildsides.xyz:2086/live/ola/12345/13977.ts
+#EXTINF:-1,CA | AMC
+http://wildsides.xyz:2086/live/ola/12345/13975.ts
+#EXTINF:-1,CA | AMC
+http://wildsides.xyz:2086/live/ola/12345/12156.ts
+#EXTINF:-1,CA | AMERICAN HEROES CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/13976.ts
+#EXTINF:-1,CA | ANIMAL PLANET
+http://wildsides.xyz:2086/live/ola/12345/13974.ts
+#EXTINF:-1,CA | APTN
+http://wildsides.xyz:2086/live/ola/12345/13973.ts
+#EXTINF:-1,CA | ARTV
+http://wildsides.xyz:2086/live/ola/12345/13972.ts
+#EXTINF:-1,CA | BBC CANADA
+http://wildsides.xyz:2086/live/ola/12345/13971.ts
+#EXTINF:-1,CA | BBC KIDS
+http://wildsides.xyz:2086/live/ola/12345/13970.ts
+#EXTINF:-1,CA | BBC WORLD NEWS
+http://wildsides.xyz:2086/live/ola/12345/13969.ts
+#EXTINF:-1,CA | BEIN SPORTS CANADA
+http://wildsides.xyz:2086/live/ola/12345/13968.ts
+#EXTINF:-1,CA | BET
+http://wildsides.xyz:2086/live/ola/12345/13967.ts
+#EXTINF:-1,CA | BNN
+http://wildsides.xyz:2086/live/ola/12345/13966.ts
+#EXTINF:-1,CA | BOOK TV
+http://wildsides.xyz:2086/live/ola/12345/13965.ts
+#EXTINF:-1,CA | BRAVO
+http://wildsides.xyz:2086/live/ola/12345/13964.ts
+#EXTINF:-1,CA | CANADIAN ARAB TV
+http://wildsides.xyz:2086/live/ola/12345/3952.ts
+#EXTINF:-1,CA | CANAL D
+http://wildsides.xyz:2086/live/ola/12345/13963.ts
+#EXTINF:-1,CA | CANAL SAVOIR
+http://wildsides.xyz:2086/live/ola/12345/13962.ts
+#EXTINF:-1,CA | CARTOON NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13961.ts
+#EXTINF:-1,CA | CASA
+http://wildsides.xyz:2086/live/ola/12345/13960.ts
+#EXTINF:-1,CA | CBC MONTREAL
+http://wildsides.xyz:2086/live/ola/12345/13959.ts
+#EXTINF:-1,CA | CBC NEWS
+http://wildsides.xyz:2086/live/ola/12345/13958.ts
+#EXTINF:-1,CA | CBC OTTAWA
+http://wildsides.xyz:2086/live/ola/12345/13957.ts
+#EXTINF:-1,CA | CBC TORONTO
+http://wildsides.xyz:2086/live/ola/12345/13956.ts
+#EXTINF:-1,CA | CBC VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13955.ts
+#EXTINF:-1,CA | CHCH
+http://wildsides.xyz:2086/live/ola/12345/13954.ts
+#EXTINF:-1,CA | CINEPOP
+http://wildsides.xyz:2086/live/ola/12345/13953.ts
+#EXTINF:-1,CA | CITY MONTREAL
+http://wildsides.xyz:2086/live/ola/12345/13815.ts
+#EXTINF:-1,CA | CITY SASKATCHEWAN
+http://wildsides.xyz:2086/live/ola/12345/13814.ts
+#EXTINF:-1,CA | CITY TORONTO
+http://wildsides.xyz:2086/live/ola/12345/13952.ts
+#EXTINF:-1,CA | CITY VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13951.ts
+#EXTINF:-1,CA | CITY WINNIPEG
+http://wildsides.xyz:2086/live/ola/12345/13813.ts
+#EXTINF:-1,CA | CMT
+http://wildsides.xyz:2086/live/ola/12345/13950.ts
+#EXTINF:-1,CA | CNN
+http://wildsides.xyz:2086/live/ola/12345/12150.ts
+#EXTINF:-1,CA | COMEDY
+http://wildsides.xyz:2086/live/ola/12345/13812.ts
+#EXTINF:-1,CA | COMEDY GOLD
+http://wildsides.xyz:2086/live/ola/12345/13949.ts
+#EXTINF:-1,CA | COOKING CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/13948.ts
+#EXTINF:-1,CA | COSMO
+http://wildsides.xyz:2086/live/ola/12345/13947.ts
+#EXTINF:-1,CA | COTTAGE LIFE
+http://wildsides.xyz:2086/live/ola/12345/13946.ts
+#EXTINF:-1,CA | CP24
+http://wildsides.xyz:2086/live/ola/12345/13945.ts
+#EXTINF:-1,CA | CPAC
+http://wildsides.xyz:2086/live/ola/12345/13944.ts
+#EXTINF:-1,CA | CPAC FRENCH
+http://wildsides.xyz:2086/live/ola/12345/13943.ts
+#EXTINF:-1,CA | CRIME & INVESTIGATION
+http://wildsides.xyz:2086/live/ola/12345/13942.ts
+#EXTINF:-1,CA | CRIME & INVESTIGATION
+http://wildsides.xyz:2086/live/ola/12345/2268.ts
+#EXTINF:-1,CA | CTV 2 VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13941.ts
+#EXTINF:-1,CA | CTV HALIFAX
+http://wildsides.xyz:2086/live/ola/12345/13811.ts
+#EXTINF:-1,CA | CTV NEWS LIVE 1
+http://wildsides.xyz:2086/live/ola/12345/3948.ts
+#EXTINF:-1,CA | CTV NEWS LIVE 2
+http://wildsides.xyz:2086/live/ola/12345/3947.ts
+#EXTINF:-1,CA | CTV NEWS LIVE 3
+http://wildsides.xyz:2086/live/ola/12345/3946.ts
+#EXTINF:-1,CA | CTV NEWS LIVE 4
+http://wildsides.xyz:2086/live/ola/12345/3945.ts
+#EXTINF:-1,CA | CTV NEWS NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13940.ts
+#EXTINF:-1,CA | CTV OTTAWA
+http://wildsides.xyz:2086/live/ola/12345/13939.ts
+#EXTINF:-1,CA | CTV TORONTO
+http://wildsides.xyz:2086/live/ola/12345/13938.ts
+#EXTINF:-1,CA | CTV VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13937.ts
+#EXTINF:-1,CA | CTV2 OTTAWA
+http://wildsides.xyz:2086/live/ola/12345/13936.ts
+#EXTINF:-1,CA | DAYSTAR TV
+http://wildsides.xyz:2086/live/ola/12345/13935.ts
+#EXTINF:-1,CA | DEJAVIEW
+http://wildsides.xyz:2086/live/ola/12345/13934.ts
+#EXTINF:-1,CA | DISCOVERY CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/13933.ts
+#EXTINF:-1,CA | DISCOVERY SCIENCE
+http://wildsides.xyz:2086/live/ola/12345/13932.ts
+#EXTINF:-1,CA | DISCOVERY VELOCITY
+http://wildsides.xyz:2086/live/ola/12345/13931.ts
+#EXTINF:-1,CA | DISNEY CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/12147.ts
+#EXTINF:-1,CA | DISNEY JR
+http://wildsides.xyz:2086/live/ola/12345/12146.ts
+#EXTINF:-1,CA | DIY
+http://wildsides.xyz:2086/live/ola/12345/13930.ts
+#EXTINF:-1,CA | DOCUMENTARY
+http://wildsides.xyz:2086/live/ola/12345/13929.ts
+#EXTINF:-1,CA | DTOUR
+http://wildsides.xyz:2086/live/ola/12345/13928.ts
+#EXTINF:-1,CA | ENCORE 1 EAST
+http://wildsides.xyz:2086/live/ola/12345/13927.ts
+#EXTINF:-1,CA | ENCORE 2 EAST
+http://wildsides.xyz:2086/live/ola/12345/13926.ts
+#EXTINF:-1,CA | EVASION
+http://wildsides.xyz:2086/live/ola/12345/13810.ts
+#EXTINF:-1,CA | FAMILY CHRGD
+http://wildsides.xyz:2086/live/ola/12345/13925.ts
+#EXTINF:-1,CA | FAMILY EAST
+http://wildsides.xyz:2086/live/ola/12345/13924.ts
+#EXTINF:-1,CA | FAMILY JR
+http://wildsides.xyz:2086/live/ola/12345/13809.ts
+#EXTINF:-1,CA | FAMILY WEST
+http://wildsides.xyz:2086/live/ola/12345/13923.ts
+#EXTINF:-1,CA | FIGHT NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13922.ts
+#EXTINF:-1,CA | FOOD NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13921.ts
+#EXTINF:-1,CA | FOX
+http://wildsides.xyz:2086/live/ola/12345/12138.ts
+#EXTINF:-1,CA | FOX NEWS
+http://wildsides.xyz:2086/live/ola/12345/13920.ts
+#EXTINF:-1,CA | FRISIN
+http://wildsides.xyz:2086/live/ola/12345/13919.ts
+#EXTINF:-1,CA | FTV
+http://wildsides.xyz:2086/live/ola/12345/13918.ts
+#EXTINF:-1,CA | FX
+http://wildsides.xyz:2086/live/ola/12345/13917.ts
+#EXTINF:-1,CA | FXX
+http://wildsides.xyz:2086/live/ola/12345/13916.ts
+#EXTINF:-1,CA | FYI
+http://wildsides.xyz:2086/live/ola/12345/13915.ts
+#EXTINF:-1,CA | GAME TV
+http://wildsides.xyz:2086/live/ola/12345/13914.ts
+#EXTINF:-1,CA | GINX ESPORTS TV
+http://wildsides.xyz:2086/live/ola/12345/13913.ts
+#EXTINF:-1,CA | GLOBAL HALIFAX
+http://wildsides.xyz:2086/live/ola/12345/13808.ts
+#EXTINF:-1,CA | GLOBAL TORONTO
+http://wildsides.xyz:2086/live/ola/12345/13912.ts
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13911.ts
+#EXTINF:-1,CA | GSN
+http://wildsides.xyz:2086/live/ola/12345/13910.ts
+#EXTINF:-1,CA | GUSTO
+http://wildsides.xyz:2086/live/ola/12345/13909.ts
+#EXTINF:-1,CA | H2
+http://wildsides.xyz:2086/live/ola/12345/13908.ts
+#EXTINF:-1,CA | HBO 1
+http://wildsides.xyz:2086/live/ola/12345/13907.ts
+#EXTINF:-1,CA | HBO 2
+http://wildsides.xyz:2086/live/ola/12345/13906.ts
+#EXTINF:-1,CA | HGTV
+http://wildsides.xyz:2086/live/ola/12345/13905.ts
+#EXTINF:-1,CA | HISTORY
+http://wildsides.xyz:2086/live/ola/12345/13904.ts
+#EXTINF:-1,CA | HLN
+http://wildsides.xyz:2086/live/ola/12345/13903.ts
+#EXTINF:-1,CA | HOPE TV
+http://wildsides.xyz:2086/live/ola/12345/13807.ts
+#EXTINF:-1,CA | ICI MONTREAL
+http://wildsides.xyz:2086/live/ola/12345/13902.ts
+#EXTINF:-1,CA | ICI VANCOUVER
+http://wildsides.xyz:2086/live/ola/12345/13901.ts
+#EXTINF:-1,CA | IFC
+http://wildsides.xyz:2086/live/ola/12345/13899.ts
+#EXTINF:-1,CA | INVESTIGATION DISCOVERY
+http://wildsides.xyz:2086/live/ola/12345/13900.ts
+#EXTINF:-1,CA | JOY TV
+http://wildsides.xyz:2086/live/ola/12345/13806.ts
+#EXTINF:-1,CA | KNOWLEDGE KIDS
+http://wildsides.xyz:2086/live/ola/12345/13898.ts
+#EXTINF:-1,CA | LCN
+http://wildsides.xyz:2086/live/ola/12345/13897.ts
+#EXTINF:-1,CA | LEAFS TV
+http://wildsides.xyz:2086/live/ola/12345/13896.ts
+#EXTINF:-1,CA | LIFETIME
+http://wildsides.xyz:2086/live/ola/12345/13895.ts
+#EXTINF:-1,CA | LOVE NATURE
+http://wildsides.xyz:2086/live/ola/12345/13894.ts
+#EXTINF:-1,CA | MAKEFUL
+http://wildsides.xyz:2086/live/ola/12345/13805.ts
+#EXTINF:-1,CA | MAVTV
+http://wildsides.xyz:2086/live/ola/12345/13893.ts
+#EXTINF:-1,CA | MAX
+http://wildsides.xyz:2086/live/ola/12345/13892.ts
+#EXTINF:-1,CA | METEO
+http://wildsides.xyz:2086/live/ola/12345/13891.ts
+#EXTINF:-1,CA | MIRACLE
+http://wildsides.xyz:2086/live/ola/12345/13890.ts
+#EXTINF:-1,CA | MOI CIE
+http://wildsides.xyz:2086/live/ola/12345/13889.ts
+#EXTINF:-1,CA | MTIME
+http://wildsides.xyz:2086/live/ola/12345/13888.ts
+#EXTINF:-1,CA | MTV
+http://wildsides.xyz:2086/live/ola/12345/13887.ts
+#EXTINF:-1,CA | MUCH MUSIC
+http://wildsides.xyz:2086/live/ola/12345/13886.ts
+#EXTINF:-1,CA | MUSIQUE PLUS
+http://wildsides.xyz:2086/live/ola/12345/13885.ts
+#EXTINF:-1,CA | NATIONAL GEOGRAPHIC
+http://wildsides.xyz:2086/live/ola/12345/13884.ts
+#EXTINF:-1,CA | NICKELODEON
+http://wildsides.xyz:2086/live/ola/12345/13883.ts
+#EXTINF:-1,CA | NICKTOONS
+http://wildsides.xyz:2086/live/ola/12345/13803.ts
+#EXTINF:-1,CA | NTV
+http://wildsides.xyz:2086/live/ola/12345/13882.ts
+#EXTINF:-1,CA | NTV NEW FOUNDLAND
+http://wildsides.xyz:2086/live/ola/12345/3942.ts
+#EXTINF:-1,CA | OMNI 1
+http://wildsides.xyz:2086/live/ola/12345/13881.ts
+#EXTINF:-1,CA | OMNI 2
+http://wildsides.xyz:2086/live/ola/12345/13880.ts
+#EXTINF:-1,CA | OMNI BC
+http://wildsides.xyz:2086/live/ola/12345/13802.ts
+#EXTINF:-1,CA | OMNI EAST
+http://wildsides.xyz:2086/live/ola/12345/13801.ts
+#EXTINF:-1,CA | ONE
+http://wildsides.xyz:2086/live/ola/12345/13879.ts
+#EXTINF:-1,CA | OUT TV
+http://wildsides.xyz:2086/live/ola/12345/13878.ts
+#EXTINF:-1,CA | OWN
+http://wildsides.xyz:2086/live/ola/12345/13877.ts
+#EXTINF:-1,CA | PARAMOUNT CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/12129.ts
+#EXTINF:-1,CA | PARAMOUNT NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13863.ts
+#EXTINF:-1,CA | PBS
+http://wildsides.xyz:2086/live/ola/12345/13876.ts
+#EXTINF:-1,CA | PEACH TREE
+http://wildsides.xyz:2086/live/ola/12345/13875.ts
+#EXTINF:-1,CA | PRISE
+http://wildsides.xyz:2086/live/ola/12345/13874.ts
+#EXTINF:-1,CA | RDI
+http://wildsides.xyz:2086/live/ola/12345/13873.ts
+#EXTINF:-1,CA | RDS
+http://wildsides.xyz:2086/live/ola/12345/13872.ts
+#EXTINF:-1,CA | RDS 2
+http://wildsides.xyz:2086/live/ola/12345/13871.ts
+#EXTINF:-1,CA | RDS INFO
+http://wildsides.xyz:2086/live/ola/12345/13800.ts
+#EXTINF:-1,CA | SERIS
+http://wildsides.xyz:2086/live/ola/12345/13870.ts
+#EXTINF:-1,CA | SHOPPING
+http://wildsides.xyz:2086/live/ola/12345/13869.ts
+#EXTINF:-1,CA | SHOWCASE EAST
+http://wildsides.xyz:2086/live/ola/12345/13868.ts
+#EXTINF:-1,CA | SILVER SCREEN CLASSICS
+http://wildsides.xyz:2086/live/ola/12345/13867.ts
+#EXTINF:-1,CA | SLICE
+http://wildsides.xyz:2086/live/ola/12345/13866.ts
+#EXTINF:-1,CA | SMITHSONIAN CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/13865.ts
+#EXTINF:-1,CA | SPACE
+http://wildsides.xyz:2086/live/ola/12345/13864.ts
+#EXTINF:-1,CA | SUNDANCE
+http://wildsides.xyz:2086/live/ola/12345/13862.ts
+#EXTINF:-1,CA | SUPER CHANNEL 1
+http://wildsides.xyz:2086/live/ola/12345/13861.ts
+#EXTINF:-1,CA | SUPER CHANNEL 1
+http://wildsides.xyz:2086/live/ola/12345/12132.ts
+#EXTINF:-1,CA | SUPER CHANNEL 2
+http://wildsides.xyz:2086/live/ola/12345/13860.ts
+#EXTINF:-1,CA | SUPER CHANNEL VAULT
+http://wildsides.xyz:2086/live/ola/12345/13859.ts
+#EXTINF:-1,CA | SUPER ECRAN 1
+http://wildsides.xyz:2086/live/ola/12345/13858.ts
+#EXTINF:-1,CA | SUPER ECRAN 2
+http://wildsides.xyz:2086/live/ola/12345/13857.ts
+#EXTINF:-1,CA | SUPER ECRAN 3
+http://wildsides.xyz:2086/live/ola/12345/13856.ts
+#EXTINF:-1,CA | SUPER ECRAN 4
+http://wildsides.xyz:2086/live/ola/12345/13855.ts
+#EXTINF:-1,CA | TCM
+http://wildsides.xyz:2086/live/ola/12345/13854.ts
+#EXTINF:-1,CA | TELE LATINO
+http://wildsides.xyz:2086/live/ola/12345/13853.ts
+#EXTINF:-1,CA | TELE QUEBEC
+http://wildsides.xyz:2086/live/ola/12345/13852.ts
+#EXTINF:-1,CA | TELE TOON
+http://wildsides.xyz:2086/live/ola/12345/13851.ts
+#EXTINF:-1,CA | TELE TOON FRENCH
+http://wildsides.xyz:2086/live/ola/12345/13850.ts
+#EXTINF:-1,CA | TELEMAGINO
+http://wildsides.xyz:2086/live/ola/12345/13849.ts
+#EXTINF:-1,CA | TFO
+http://wildsides.xyz:2086/live/ola/12345/13799.ts
+#EXTINF:-1,CA | THE WEATHER NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13848.ts
+#EXTINF:-1,CA | TLC
+http://wildsides.xyz:2086/live/ola/12345/13847.ts
+#EXTINF:-1,CA | TLC
+http://wildsides.xyz:2086/live/ola/12345/12128.ts
+#EXTINF:-1,CA | TMN 1
+http://wildsides.xyz:2086/live/ola/12345/13846.ts
+#EXTINF:-1,CA | TMN 2
+http://wildsides.xyz:2086/live/ola/12345/13845.ts
+#EXTINF:-1,CA | TMN 3
+http://wildsides.xyz:2086/live/ola/12345/13844.ts
+#EXTINF:-1,CA | TMN 4
+http://wildsides.xyz:2086/live/ola/12345/13843.ts
+#EXTINF:-1,CA | TRAVEL & ESCAPE
+http://wildsides.xyz:2086/live/ola/12345/13842.ts
+#EXTINF:-1,CA | TREEHOUSE
+http://wildsides.xyz:2086/live/ola/12345/13841.ts
+#EXTINF:-1,CA | TSN 1
+http://wildsides.xyz:2086/live/ola/12345/30311.ts
+#EXTINF:-1,CA | TSN 2
+http://wildsides.xyz:2086/live/ola/12345/30310.ts
+#EXTINF:-1,CA | TSN 3
+http://wildsides.xyz:2086/live/ola/12345/30309.ts
+#EXTINF:-1,CA | TSN 4
+http://wildsides.xyz:2086/live/ola/12345/30308.ts
+#EXTINF:-1,CA | TSN 5
+http://wildsides.xyz:2086/live/ola/12345/30307.ts
+#EXTINF:-1,CA | TV5 QUEBEC
+http://wildsides.xyz:2086/live/ola/12345/13840.ts
+#EXTINF:-1,CA | TVA GATINEAU
+http://wildsides.xyz:2086/live/ola/12345/13839.ts
+#EXTINF:-1,CA | TVA MONTREAL
+http://wildsides.xyz:2086/live/ola/12345/13838.ts
+#EXTINF:-1,CA | TVA QUEBEC
+http://wildsides.xyz:2086/live/ola/12345/13837.ts
+#EXTINF:-1,CA | TVA SPORTS
+http://wildsides.xyz:2086/live/ola/12345/13836.ts
+#EXTINF:-1,CA | TVA SPORTS 2
+http://wildsides.xyz:2086/live/ola/12345/13835.ts
+#EXTINF:-1,CA | TVO
+http://wildsides.xyz:2086/live/ola/12345/13834.ts
+#EXTINF:-1,CA | UNIS TV
+http://wildsides.xyz:2086/live/ola/12345/13798.ts
+#EXTINF:-1,CA | V MONTREAL
+http://wildsides.xyz:2086/live/ola/12345/13833.ts
+#EXTINF:-1,CA | V QUEBEC
+http://wildsides.xyz:2086/live/ola/12345/13797.ts
+#EXTINF:-1,CA | VELOCITY
+http://wildsides.xyz:2086/live/ola/12345/13832.ts
+#EXTINF:-1,CA | VICELAND
+http://wildsides.xyz:2086/live/ola/12345/13831.ts
+#EXTINF:-1,CA | VIE
+http://wildsides.xyz:2086/live/ola/12345/13830.ts
+#EXTINF:-1,CA | VISION
+http://wildsides.xyz:2086/live/ola/12345/13829.ts
+#EXTINF:-1,CA | VRAK TV
+http://wildsides.xyz:2086/live/ola/12345/13828.ts
+#EXTINF:-1,CA | W NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13827.ts
+#EXTINF:-1,CA | WGN
+http://wildsides.xyz:2086/live/ola/12345/13825.ts
+#EXTINF:-1,CA | WILD TV
+http://wildsides.xyz:2086/live/ola/12345/13824.ts
+#EXTINF:-1,CA | WORLD FISHING NETWORK
+http://wildsides.xyz:2086/live/ola/12345/13826.ts
+#EXTINF:-1,CA | WSBK
+http://wildsides.xyz:2086/live/ola/12345/13823.ts
+#EXTINF:-1,CA | YES TV
+http://wildsides.xyz:2086/live/ola/12345/13822.ts
+#EXTINF:-1,CA | YOOPA
+http://wildsides.xyz:2086/live/ola/12345/13821.ts
+#EXTINF:-1,CA | YTV
+http://wildsides.xyz:2086/live/ola/12345/13820.ts
+#EXTINF:-1,CA | YTV WEST
+http://wildsides.xyz:2086/live/ola/12345/13819.ts
+#EXTINF:-1,CA | YTV-E
+http://wildsides.xyz:2086/live/ola/12345/12120.ts
+#EXTINF:-1,CA | Z TELE
+http://wildsides.xyz:2086/live/ola/12345/13818.ts
+#EXTINF:-1,CA | ZEE TV
+http://wildsides.xyz:2086/live/ola/12345/13817.ts
+#EXTINF:-1,CA | ZESTE
+http://wildsides.xyz:2086/live/ola/12345/13816.ts
+#EXTINF:-1,UK | 4 SEVEN
+http://wildsides.xyz:2086/live/ola/12345/37624.ts
+#EXTINF:-1,UK | 5 STAR
+http://wildsides.xyz:2086/live/ola/12345/5053.ts
+#EXTINF:-1,UK | 5 USA
+http://wildsides.xyz:2086/live/ola/12345/10033.ts
+#EXTINF:-1,UK | ALIBI
+http://wildsides.xyz:2086/live/ola/12345/5091.ts
+#EXTINF:-1,UK | AMC
+http://wildsides.xyz:2086/live/ola/12345/37610.ts
+#EXTINF:-1,UK | AT THE RACES
+http://wildsides.xyz:2086/live/ola/12345/755.ts
+#EXTINF:-1,UK | BBC 1
+http://wildsides.xyz:2086/live/ola/12345/171.ts
+#EXTINF:-1,UK | BBC 2
+http://wildsides.xyz:2086/live/ola/12345/5146.ts
+#EXTINF:-1,UK | BBC 3
+http://wildsides.xyz:2086/live/ola/12345/37619.ts
+#EXTINF:-1,UK | BBC 4
+http://wildsides.xyz:2086/live/ola/12345/37615.ts
+#EXTINF:-1,UK | BBC FOUR
+http://wildsides.xyz:2086/live/ola/12345/5144.ts
+#EXTINF:-1,UK | BBC NEWS
+http://wildsides.xyz:2086/live/ola/12345/747.ts
+#EXTINF:-1,UK | BET
+http://wildsides.xyz:2086/live/ola/12345/5054.ts
+#EXTINF:-1,UK | BLOOMBERG
+http://wildsides.xyz:2086/live/ola/12345/272.ts
+#EXTINF:-1,UK | BOOMERANG
+http://wildsides.xyz:2086/live/ola/12345/1298.ts
+#EXTINF:-1,UK | BOX NATION ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1039.ts
+#EXTINF:-1,UK | BOXNATION ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27638.ts
+#EXTINF:-1,UK | BRITISH EUROSPORT 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/107.ts
+#EXTINF:-1,UK | BRITISH EUROSPORT 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/108.ts
+#EXTINF:-1,UK | BT SPORT 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27637.ts
+#EXTINF:-1,UK | BT SPORT 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27636.ts
+#EXTINF:-1,UK | BT SPORT 3 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27635.ts
+#EXTINF:-1,UK | BT SPORT ESPN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27634.ts
+#EXTINF:-1,UK | CBBC
+http://wildsides.xyz:2086/live/ola/12345/5145.ts
+#EXTINF:-1,UK | CBS ACTION
+http://wildsides.xyz:2086/live/ola/12345/5131.ts
+#EXTINF:-1,UK | CBS DRAMA
+http://wildsides.xyz:2086/live/ola/12345/5132.ts
+#EXTINF:-1,UK | CHALLENGE
+http://wildsides.xyz:2086/live/ola/12345/5057.ts
+#EXTINF:-1,UK | CHANNEL 5
+http://wildsides.xyz:2086/live/ola/12345/37629.ts
+#EXTINF:-1,UK | CITV
+http://wildsides.xyz:2086/live/ola/12345/761.ts
+#EXTINF:-1,UK | COMEDY CENTRAL
+http://wildsides.xyz:2086/live/ola/12345/934.ts
+#EXTINF:-1,UK | COMEDY CENTRAL EXTRA
+http://wildsides.xyz:2086/live/ola/12345/37611.ts
+#EXTINF:-1,UK | COMEDY CENTRAL XTRA +1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30645.ts
+#EXTINF:-1,UK | CREATE & CRAFT TV
+http://wildsides.xyz:2086/live/ola/12345/37602.ts
+#EXTINF:-1,UK | CRIME INVESTIGATION
+http://wildsides.xyz:2086/live/ola/12345/5063.ts
+#EXTINF:-1,UK | DAVE
+http://wildsides.xyz:2086/live/ola/12345/37606.ts
+#EXTINF:-1,UK | DISCOVERY CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/5104.ts
+#EXTINF:-1,UK | DISCOVERY HISTORY
+http://wildsides.xyz:2086/live/ola/12345/5103.ts
+#EXTINF:-1,UK | DISCOVERY SCIENCE
+http://wildsides.xyz:2086/live/ola/12345/5101.ts
+#EXTINF:-1,UK | DISCOVERY SHED
+http://wildsides.xyz:2086/live/ola/12345/5102.ts
+#EXTINF:-1,UK | DISNEY CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/5071.ts
+#EXTINF:-1,UK | DISNEY JUNIOR
+http://wildsides.xyz:2086/live/ola/12345/5070.ts
+#EXTINF:-1,UK | DISNEY XD
+http://wildsides.xyz:2086/live/ola/12345/5069.ts
+#EXTINF:-1,UK | DISNEY XD +1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30646.ts
+#EXTINF:-1,UK | DRAMA
+http://wildsides.xyz:2086/live/ola/12345/5060.ts
+#EXTINF:-1,UK | E!
+http://wildsides.xyz:2086/live/ola/12345/5059.ts
+#EXTINF:-1,UK | E4
+http://wildsides.xyz:2086/live/ola/12345/5058.ts
+#EXTINF:-1,UK | EDEN
+http://wildsides.xyz:2086/live/ola/12345/37607.ts
+#EXTINF:-1,UK | EUROSPORT 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27632.ts
+#EXTINF:-1,UK | EUROSPORT 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27631.ts
+#EXTINF:-1,UK | FOOD NETWORK
+http://wildsides.xyz:2086/live/ola/12345/5089.ts
+#EXTINF:-1,UK | FOX NEWS
+http://wildsides.xyz:2086/live/ola/12345/5138.ts
+#EXTINF:-1,UK | GOOD FOOD
+http://wildsides.xyz:2086/live/ola/12345/5093.ts
+#EXTINF:-1,UK | H2
+http://wildsides.xyz:2086/live/ola/12345/5095.ts
+#EXTINF:-1,UK | HEART TV
+http://wildsides.xyz:2086/live/ola/12345/5079.ts
+#EXTINF:-1,UK | HOME HEALTH
+http://wildsides.xyz:2086/live/ola/12345/5094.ts
+#EXTINF:-1,UK | HORROR CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/5121.ts
+#EXTINF:-1,UK | ID
+http://wildsides.xyz:2086/live/ola/12345/5119.ts
+#EXTINF:-1,UK | ITV 1
+http://wildsides.xyz:2086/live/ola/12345/37630.ts
+#EXTINF:-1,UK | ITV 2
+http://wildsides.xyz:2086/live/ola/12345/186.ts
+#EXTINF:-1,UK | ITV BE
+http://wildsides.xyz:2086/live/ola/12345/5142.ts
+#EXTINF:-1,UK | LFC TV
+http://wildsides.xyz:2086/live/ola/12345/28913.ts
+#EXTINF:-1,UK | LONDON LIVE
+http://wildsides.xyz:2086/live/ola/12345/10211.ts
+#EXTINF:-1,UK | MORE 4
+http://wildsides.xyz:2086/live/ola/12345/5118.ts
+#EXTINF:-1,UK | MOVIES 24
+http://wildsides.xyz:2086/live/ola/12345/3483.ts
+#EXTINF:-1,UK | MTV
+http://wildsides.xyz:2086/live/ola/12345/304.ts
+#EXTINF:-1,UK | MTV DANCE
+http://wildsides.xyz:2086/live/ola/12345/5087.ts
+#EXTINF:-1,UK | MTV HITS
+http://wildsides.xyz:2086/live/ola/12345/5086.ts
+#EXTINF:-1,UK | MTV ROCKS
+http://wildsides.xyz:2086/live/ola/12345/5083.ts
+#EXTINF:-1,UK | MY5
+http://wildsides.xyz:2086/live/ola/12345/37625.ts
+#EXTINF:-1,UK | NAT GEO
+http://wildsides.xyz:2086/live/ola/12345/5098.ts
+#EXTINF:-1,UK | NICK JR TOO
+http://wildsides.xyz:2086/live/ola/12345/394.ts
+#EXTINF:-1,UK | NICKELODEON
+http://wildsides.xyz:2086/live/ola/12345/5072.ts
+#EXTINF:-1,UK | NICKTOONS
+http://wildsides.xyz:2086/live/ola/12345/663.ts
+#EXTINF:-1,UK | OSN SPORTS 1
+http://wildsides.xyz:2086/live/ola/12345/37636.ts
+#EXTINF:-1,UK | OSN SPORTS 2
+http://wildsides.xyz:2086/live/ola/12345/37635.ts
+#EXTINF:-1,UK | OSN SPORTS 3
+http://wildsides.xyz:2086/live/ola/12345/37634.ts
+#EXTINF:-1,UK | OSN SPORTS CRICKET
+http://wildsides.xyz:2086/live/ola/12345/37632.ts
+#EXTINF:-1,UK | PARAMOUNT
+http://wildsides.xyz:2086/live/ola/12345/37604.ts
+#EXTINF:-1,UK | POP
+http://wildsides.xyz:2086/live/ola/12345/5066.ts
+#EXTINF:-1,UK | POP MAX
+http://wildsides.xyz:2086/live/ola/12345/5067.ts
+#EXTINF:-1,UK | QUEST
+http://wildsides.xyz:2086/live/ola/12345/5116.ts
+#EXTINF:-1,UK | RACING UK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27628.ts
+#EXTINF:-1,UK | REAL LIVES
+http://wildsides.xyz:2086/live/ola/12345/5107.ts
+#EXTINF:-1,UK | REALLY
+http://wildsides.xyz:2086/live/ola/12345/5114.ts
+#EXTINF:-1,UK | RTE 2
+http://wildsides.xyz:2086/live/ola/12345/5136.ts
+#EXTINF:-1,UK | SCUZZ
+http://wildsides.xyz:2086/live/ola/12345/622.ts
+#EXTINF:-1,UK | SHEFFIELD STEELERS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27627.ts
+#EXTINF:-1,UK | SKY 1
+http://wildsides.xyz:2086/live/ola/12345/799.ts
+#EXTINF:-1,UK | SKY CINEMA ACTION
+http://wildsides.xyz:2086/live/ola/12345/428.ts
+#EXTINF:-1,UK | SKY CINEMA ATLANTIC
+http://wildsides.xyz:2086/live/ola/12345/696.ts
+#EXTINF:-1,UK | SKY CINEMA CRIME & THRILLER
+http://wildsides.xyz:2086/live/ola/12345/3488.ts
+#EXTINF:-1,UK | SKY CINEMA DISNEY
+http://wildsides.xyz:2086/live/ola/12345/193.ts
+#EXTINF:-1,UK | SKY CINEMA FAMILY
+http://wildsides.xyz:2086/live/ola/12345/797.ts
+#EXTINF:-1,UK | SKY CINEMA HITS HD
+http://wildsides.xyz:2086/live/ola/12345/3484.ts
+#EXTINF:-1,UK | SKY NEWS
+http://wildsides.xyz:2086/live/ola/12345/624.ts
+#EXTINF:-1,UK | SKY SPORTS ACTION ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27626.ts
+#EXTINF:-1,UK | SKY SPORTS ARENA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27625.ts
+#EXTINF:-1,UK | SKY SPORTS CRICKET ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27624.ts
+#EXTINF:-1,UK | SKY SPORTS F1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27623.ts
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27622.ts
+#EXTINF:-1,UK | SKY SPORTS GOLF ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27621.ts
+#EXTINF:-1,UK | SKY SPORTS MAIN EVENT ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27620.ts
+#EXTINF:-1,UK | SKY SPORTS MIX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27619.ts
+#EXTINF:-1,UK | SKY SPORTS NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27618.ts
+#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/27617.ts
+#EXTINF:-1,UK | SKY WITNESS
+http://wildsides.xyz:2086/live/ola/12345/37613.ts
+#EXTINF:-1,UK | SONY MOVIES
+http://wildsides.xyz:2086/live/ola/12345/5049.ts
+#EXTINF:-1,UK | SPIKE
+http://wildsides.xyz:2086/live/ola/12345/37605.ts
+#EXTINF:-1,UK | SYFY
+http://wildsides.xyz:2086/live/ola/12345/932.ts
+#EXTINF:-1,UK | TCM HD
+http://wildsides.xyz:2086/live/ola/12345/5048.ts
+#EXTINF:-1,UK | TLC
+http://wildsides.xyz:2086/live/ola/12345/5090.ts
+#EXTINF:-1,UK | TRAVEL CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/5092.ts
+#EXTINF:-1,UK | TRU TV
+http://wildsides.xyz:2086/live/ola/12345/5111.ts
+#EXTINF:-1,UK | TRUE ENTERTAINMENT
+http://wildsides.xyz:2086/live/ola/12345/5110.ts
+#EXTINF:-1,UK | TRUE MOVIES
+http://wildsides.xyz:2086/live/ola/12345/5050.ts
+#EXTINF:-1,UK | TRUTV
+http://wildsides.xyz:2086/live/ola/12345/37608.ts
+#EXTINF:-1,UK | TV WAREHOUSE
+http://wildsides.xyz:2086/live/ola/12345/37601.ts
+#EXTINF:-1,UK | UNIVERSAL
+http://wildsides.xyz:2086/live/ola/12345/37609.ts
+#EXTINF:-1,UK | UTV
+http://wildsides.xyz:2086/live/ola/12345/5126.ts
+#EXTINF:-1,UK | VICELAND
+http://wildsides.xyz:2086/live/ola/12345/5076.ts
+#EXTINF:-1,UK | VINTAGE TV
+http://wildsides.xyz:2086/live/ola/12345/5109.ts
+#EXTINF:-1,UK | YESTERDAY
+http://wildsides.xyz:2086/live/ola/12345/5062.ts
+#EXTINF:-1,USA (SD) | A&E
+http://wildsides.xyz:2086/live/ola/12345/29622.ts
+#EXTINF:-1,USA (SD) | AMC
+http://wildsides.xyz:2086/live/ola/12345/29621.ts
+#EXTINF:-1,USA (SD) | ANIMAL PLANET
+http://wildsides.xyz:2086/live/ola/12345/29620.ts
+#EXTINF:-1,USA (SD) | BEIN SPORTS
+http://wildsides.xyz:2086/live/ola/12345/29703.ts
+#EXTINF:-1,USA (SD) | BRAVO
+http://wildsides.xyz:2086/live/ola/12345/29619.ts
+#EXTINF:-1,USA (SD) | BTN
+http://wildsides.xyz:2086/live/ola/12345/29618.ts
+#EXTINF:-1,USA (SD) | BYU TV
+http://wildsides.xyz:2086/live/ola/12345/29721.ts
+#EXTINF:-1,USA (SD) | CARTOON NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29617.ts
+#EXTINF:-1,USA (SD) | CBN NEWS
+http://wildsides.xyz:2086/live/ola/12345/29631.ts
+#EXTINF:-1,USA (SD) | CBS WEST
+http://wildsides.xyz:2086/live/ola/12345/29616.ts
+#EXTINF:-1,USA (SD) | CINEMAX EAST
+http://wildsides.xyz:2086/live/ola/12345/29615.ts
+#EXTINF:-1,USA (SD) | CINEMAX WEST
+http://wildsides.xyz:2086/live/ola/12345/29614.ts
+#EXTINF:-1,USA (SD) | CNBC
+http://wildsides.xyz:2086/live/ola/12345/29613.ts
+#EXTINF:-1,USA (SD) | CNN
+http://wildsides.xyz:2086/live/ola/12345/29612.ts
+#EXTINF:-1,USA (SD) | COOKING CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/29611.ts
+#EXTINF:-1,USA (SD) | COZI TV
+http://wildsides.xyz:2086/live/ola/12345/29610.ts
+#EXTINF:-1,USA (SD) | CTN
+http://wildsides.xyz:2086/live/ola/12345/29775.ts
+#EXTINF:-1,USA (SD) | DESTINATION AMERICA
+http://wildsides.xyz:2086/live/ola/12345/29609.ts
+#EXTINF:-1,USA (SD) | DISCOVERY CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/29608.ts
+#EXTINF:-1,USA (SD) | DISNEY CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/29607.ts
+#EXTINF:-1,USA (SD) | DISNEY JR
+http://wildsides.xyz:2086/live/ola/12345/29606.ts
+#EXTINF:-1,USA (SD) | DISNEY XD
+http://wildsides.xyz:2086/live/ola/12345/29605.ts
+#EXTINF:-1,USA (SD) | DIVINE
+http://wildsides.xyz:2086/live/ola/12345/29772.ts
+#EXTINF:-1,USA (SD) | E!
+http://wildsides.xyz:2086/live/ola/12345/29604.ts
+#EXTINF:-1,USA (SD) | EL REY NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29603.ts
+#EXTINF:-1,USA (SD) | EPIX
+http://wildsides.xyz:2086/live/ola/12345/29602.ts
+#EXTINF:-1,USA (SD) | ESPN
+http://wildsides.xyz:2086/live/ola/12345/29601.ts
+#EXTINF:-1,USA (SD) | ESPN 2
+http://wildsides.xyz:2086/live/ola/12345/29600.ts
+#EXTINF:-1,USA (SD) | FIGHT NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29599.ts
+#EXTINF:-1,USA (SD) | FYI
+http://wildsides.xyz:2086/live/ola/12345/29598.ts
+#EXTINF:-1,USA (SD) | FOOD NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29597.ts
+#EXTINF:-1,USA (SD) | FOX
+http://wildsides.xyz:2086/live/ola/12345/29596.ts
+#EXTINF:-1,USA (SD) | FOX BUSINESS NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29595.ts
+#EXTINF:-1,USA (SD) | FOX NEWS
+http://wildsides.xyz:2086/live/ola/12345/29594.ts
+#EXTINF:-1,USA (SD) | FOX SPORTS 1
+http://wildsides.xyz:2086/live/ola/12345/29592.ts
+#EXTINF:-1,USA (SD) | FOX SPORTS 2
+http://wildsides.xyz:2086/live/ola/12345/29591.ts
+#EXTINF:-1,USA (SD) | FUSE
+http://wildsides.xyz:2086/live/ola/12345/29590.ts
+#EXTINF:-1,USA (SD) | FUSION TV
+http://wildsides.xyz:2086/live/ola/12345/29589.ts
+#EXTINF:-1,USA (SD) | FX
+http://wildsides.xyz:2086/live/ola/12345/29588.ts
+#EXTINF:-1,USA (SD) | FXM
+http://wildsides.xyz:2086/live/ola/12345/29586.ts
+#EXTINF:-1,USA (SD) | FXX
+http://wildsides.xyz:2086/live/ola/12345/29587.ts
+#EXTINF:-1,USA (SD) | GOLF CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/29585.ts
+#EXTINF:-1,USA (SD) | HALLMARK
+http://wildsides.xyz:2086/live/ola/12345/29584.ts
+#EXTINF:-1,USA (SD) | HALLMARK MOVIE
+http://wildsides.xyz:2086/live/ola/12345/29583.ts
+#EXTINF:-1,USA (SD) | HBO EAST
+http://wildsides.xyz:2086/live/ola/12345/29582.ts
+#EXTINF:-1,USA (SD) | HBO WEST
+http://wildsides.xyz:2086/live/ola/12345/29581.ts
+#EXTINF:-1,USA (SD) | HGTV
+http://wildsides.xyz:2086/live/ola/12345/29580.ts
+#EXTINF:-1,USA (SD) | HISTORY
+http://wildsides.xyz:2086/live/ola/12345/29579.ts
+#EXTINF:-1,USA (SD) | HLN
+http://wildsides.xyz:2086/live/ola/12345/29578.ts
+#EXTINF:-1,USA (SD) | IFC
+http://wildsides.xyz:2086/live/ola/12345/29576.ts
+#EXTINF:-1,USA (SD) | INSP
+http://wildsides.xyz:2086/live/ola/12345/29819.ts
+#EXTINF:-1,USA (SD) | INVESTIGATION DISCOVERY
+http://wildsides.xyz:2086/live/ola/12345/29593.ts
+#EXTINF:-1,USA (SD) | LIFETIME
+http://wildsides.xyz:2086/live/ola/12345/29575.ts
+#EXTINF:-1,USA (SD) | LMN
+http://wildsides.xyz:2086/live/ola/12345/29574.ts
+#EXTINF:-1,USA (SD) | MAV TV
+http://wildsides.xyz:2086/live/ola/12345/29573.ts
+#EXTINF:-1,USA (SD) | MLB NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29572.ts
+#EXTINF:-1,USA (SD) | MSNBC
+http://wildsides.xyz:2086/live/ola/12345/29571.ts
+#EXTINF:-1,USA (SD) | MTV
+http://wildsides.xyz:2086/live/ola/12345/29570.ts
+#EXTINF:-1,USA (SD) | NAT GEO
+http://wildsides.xyz:2086/live/ola/12345/29569.ts
+#EXTINF:-1,USA (SD) | NAT GEO WILD
+http://wildsides.xyz:2086/live/ola/12345/29568.ts
+#EXTINF:-1,NBA 766 | NBA TV
+http://wildsides.xyz:2086/live/ola/12345/37637.ts
+#EXTINF:-1,USA (SD) | NBA TV
+http://wildsides.xyz:2086/live/ola/12345/29567.ts
+#EXTINF:-1,USA (SD) | NBC WEST
+http://wildsides.xyz:2086/live/ola/12345/29566.ts
+#EXTINF:-1,USA (SD) | NBCSN
+http://wildsides.xyz:2086/live/ola/12345/29565.ts
+#EXTINF:-1,USA (SD) | NEWSMAX
+http://wildsides.xyz:2086/live/ola/12345/29709.ts
+#EXTINF:-1,USA (SD) | NFL NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29564.ts
+#EXTINF:-1,USA (SD) | NHK WORLD
+http://wildsides.xyz:2086/live/ola/12345/29644.ts
+#EXTINF:-1,USA (SD) | OUTDOOR CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/29563.ts
+#EXTINF:-1,USA (SD) | OXYGEN
+http://wildsides.xyz:2086/live/ola/12345/29562.ts
+#EXTINF:-1,USA (SD) | PBS KIDS
+http://wildsides.xyz:2086/live/ola/12345/29710.ts
+#EXTINF:-1,USA (SD) | POP TV
+http://wildsides.xyz:2086/live/ola/12345/29561.ts
+#EXTINF:-1,USA (SD) | RT AMERICA
+http://wildsides.xyz:2086/live/ola/12345/29711.ts
+#EXTINF:-1,USA (SD) | SCIENTOLOGY
+http://wildsides.xyz:2086/live/ola/12345/29770.ts
+#EXTINF:-1,USA (SD) | SHOWTIME WEST
+http://wildsides.xyz:2086/live/ola/12345/29560.ts
+#EXTINF:-1,USA (SD) | STARZ COMEDY
+http://wildsides.xyz:2086/live/ola/12345/29646.ts
+#EXTINF:-1,USA (SD) | SUNDANCE
+http://wildsides.xyz:2086/live/ola/12345/29559.ts
+#EXTINF:-1,USA (SD) | SYFY
+http://wildsides.xyz:2086/live/ola/12345/29558.ts
+#EXTINF:-1,USA (SD) | TBS
+http://wildsides.xyz:2086/live/ola/12345/29557.ts
+#EXTINF:-1,USA (SD) | THE WORD
+http://wildsides.xyz:2086/live/ola/12345/29774.ts
+#EXTINF:-1,USA (SD) | TLC
+http://wildsides.xyz:2086/live/ola/12345/29556.ts
+#EXTINF:-1,USA (SD) | TNT
+http://wildsides.xyz:2086/live/ola/12345/29555.ts
+#EXTINF:-1,USA (SD) | TRAVEL CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/29554.ts
+#EXTINF:-1,USA (SD) | TRU TV
+http://wildsides.xyz:2086/live/ola/12345/29553.ts
+#EXTINF:-1,USA (SD) | USA NETWORK
+http://wildsides.xyz:2086/live/ola/12345/29552.ts
+#EXTINF:-1,USA (SD) | VELOCITY
+http://wildsides.xyz:2086/live/ola/12345/29551.ts
+#EXTINF:-1,USA (SD) | VICELAND
+http://wildsides.xyz:2086/live/ola/12345/29550.ts
+#EXTINF:-1,USA (SD) | WE TV
+http://wildsides.xyz:2086/live/ola/12345/29549.ts
+#EXTINF:-1,USA | A&E BACKUP ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10206.ts
+#EXTINF:-1,USA | A&E ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/625.ts
+#EXTINF:-1,USA | ABC 10 MIAMI ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3805.ts
+#EXTINF:-1,USA | ABC 6 PHILLY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10210.ts
+#EXTINF:-1,USA | ABC 7 CHICAGO ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3808.ts
+#EXTINF:-1,USA | ABC 7 LA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3807.ts
+#EXTINF:-1,USA | ABC 7 NYC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3806.ts
+#EXTINF:-1,USA | ABC 2 ATLANTA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1284.ts
+#EXTINF:-1,USA | ABC NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/218.ts
+#EXTINF:-1,USA | ABN KIDS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29629.ts
+#EXTINF:-1,USA | ADULT SWIM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2339.ts
+#EXTINF:-1,USA | AHC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/400.ts
+#EXTINF:-1,USA | ALJAZEERA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29630.ts
+#EXTINF:-1,USA | AMC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/170.ts
+#EXTINF:-1,USA | ANIMAL PLANET ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/901.ts
+#EXTINF:-1,USA | ATLANTA CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1808.ts
+#EXTINF:-1,USA | BBC AMERICA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2764.ts
+#EXTINF:-1,USA | BEACH TV 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2438.ts
+#EXTINF:-1,USA | BEACH TV 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2439.ts
+#EXTINF:-1,USA | BEIN SPORTS 01 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9722.ts
+#EXTINF:-1,USA | BEIN SPORTS 02 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9723.ts
+#EXTINF:-1,USA | BEIN SPORTS 03 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9724.ts
+#EXTINF:-1,USA | BEIN SPORTS 04 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9725.ts
+#EXTINF:-1,USA | BEIN SPORTS 05 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9726.ts
+#EXTINF:-1,USA | BEIN SPORTS 06 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9727.ts
+#EXTINF:-1,USA | BEIN SPORTS 07 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9728.ts
+#EXTINF:-1,USA | BEIN SPORTS 08 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9729.ts
+#EXTINF:-1,USA | BEIN SPORTS 09 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9730.ts
+#EXTINF:-1,USA | BEIN SPORTS 10 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9731.ts
+#EXTINF:-1,USA | BEIN SPORTS 11 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9732.ts
+#EXTINF:-1,USA | BEIN SPORTS 12 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9733.ts
+#EXTINF:-1,USA | BET HER ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/6228.ts
+#EXTINF:-1,USA | BET EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/714.ts
+#EXTINF:-1,USA | BET INTERNATIONAL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29824.ts
+#EXTINF:-1,USA | BET JAMS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28905.ts
+#EXTINF:-1,USA | BLACK CINEMA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30270.ts
+#EXTINF:-1,USA | BLOOMBERG NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28292.ts
+#EXTINF:-1,USA | BOOMERANG ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2750.ts
+#EXTINF:-1,USA | BOUNCE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2786.ts
+#EXTINF:-1,USA | BRASIL COPACABANA CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29706.ts
+#EXTINF:-1,USA | BRAVO ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1299.ts
+#EXTINF:-1,USA | BRONXNET ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13266.ts
+#EXTINF:-1,USA | BT SPORT ESPN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/102.ts
+#EXTINF:-1,USA | BTN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1627.ts
+#EXTINF:-1,USA | BUZZR ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1386.ts
+#EXTINF:-1,USA | CAPITAL TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9778.ts
+#EXTINF:-1,USA | CARTOON NETWORK EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/952.ts
+#EXTINF:-1,USA | CARTOON NETWORK WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28765.ts
+#EXTINF:-1,USA | CBS 4 MIAMI ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9717.ts
+#EXTINF:-1,USA | CBS EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1642.ts
+#EXTINF:-1,USA | CBS SPORTS NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/728.ts
+#EXTINF:-1,USA | CGTN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30271.ts
+#EXTINF:-1,USA | CHEDDAR ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29434.ts
+#EXTINF:-1,USA | CHELSEA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1624.ts
+#EXTINF:-1,USA | CINEMAX 5 STAR MAX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29482.ts
+#EXTINF:-1,USA | CINEMAX ACTIONMAX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/902.ts
+#EXTINF:-1,USA | CINEMAX EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/677.ts
+#EXTINF:-1,USA | CINEMAX MOREMAX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10212.ts
+#EXTINF:-1,USA | CINEMAX OUTERMAX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28745.ts
+#EXTINF:-1,USA | CINEMAX THRILLERMAX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28910.ts
+#EXTINF:-1,USA | CINEMAX WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28916.ts
+#EXTINF:-1,USA | CLASSIC TV 4U ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8473.ts
+#EXTINF:-1,USA | CMT ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1599.ts
+#EXTINF:-1,USA | CNBC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/809.ts
+#EXTINF:-1,USA | CNN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/327.ts
+#EXTINF:-1,USA | COMEDY CENTRAL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/802.ts
+#EXTINF:-1,USA | COMET TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28744.ts
+#EXTINF:-1,USA | COOKING CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/181.ts
+#EXTINF:-1,USA | COUNTRY NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1740.ts
+#EXTINF:-1,USA | CSN BAY AREA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4986.ts
+#EXTINF:-1,USA | CSN BOSTON ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1518.ts
+#EXTINF:-1,USA | CSN CALIFORNIA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4985.ts
+#EXTINF:-1,USA | CSN CHICAGO ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29823.ts
+#EXTINF:-1,USA | CSN NORTH WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4983.ts
+#EXTINF:-1,USA | CSN PHILLY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1520.ts
+#EXTINF:-1,USA | CSN WASHINGTON  ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29831.ts
+#EXTINF:-1,USA | CSN WASHINGTON+ ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29832.ts
+#EXTINF:-1,USA | CW 50 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29768.ts
+#EXTINF:-1,USA | CW CENTRAL PA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1809.ts
+#EXTINF:-1,USA | DAYSTAR ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/381.ts
+#EXTINF:-1,USA | DESTINATION AMERICA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/401.ts
+#EXTINF:-1,USA | DISCOVERY CHANNEL EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1071.ts
+#EXTINF:-1,USA | DISCOVERY CHANNEL WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28739.ts
+#EXTINF:-1,USA | DISCOVERY FAMILY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29825.ts
+#EXTINF:-1,USA | DISCOVERY LIFE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29870.ts
+#EXTINF:-1,USA | DISCOVERY SCIENCE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/384.ts
+#EXTINF:-1,USA | DISNEY CHANNEL EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/991.ts
+#EXTINF:-1,USA | DISNEY CHANNEL WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29400.ts
+#EXTINF:-1,USA | DISNEY JR EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/972.ts
+#EXTINF:-1,USA | DISNEY JR WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28766.ts
+#EXTINF:-1,USA | DISNEY XD EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/846.ts
+#EXTINF:-1,USA | DISNEY XD WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28764.ts
+#EXTINF:-1,USA | DIY NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/777.ts
+#EXTINF:-1,USA | DKN NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2437.ts
+#EXTINF:-1,USA | E! ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/420.ts
+#EXTINF:-1,USA | EAGLE CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2491.ts
+#EXTINF:-1,USA | EIR SPORTS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1282.ts
+#EXTINF:-1,USA | EL REY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1850.ts
+#EXTINF:-1,USA | EPIX HITS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28268.ts
+#EXTINF:-1,USA | EPIX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/853.ts
+#EXTINF:-1,USA (SD) | ESCAPE TV
+http://wildsides.xyz:2086/live/ola/12345/30943.ts
+#EXTINF:-1,USA | ESPN 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/140.ts
+#EXTINF:-1,USA | ESPN 3 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/37638.ts
+#EXTINF:-1,USA | ESPN CLASSIC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30268.ts
+#EXTINF:-1,USA | ESPN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/139.ts
+#EXTINF:-1,USA | ESPN NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/606.ts
+#EXTINF:-1,USA | ESPN U ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1172.ts
+#EXTINF:-1,USA | EVINE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29541.ts
+#EXTINF:-1,USA | FAITH & LIFE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2007.ts
+#EXTINF:-1,USA | FASHION ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10034.ts
+#EXTINF:-1,USA | FIGHT BOX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8487.ts
+#EXTINF:-1,USA | FLICKS OF FURY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30273.ts
+#EXTINF:-1,USA | FLORIDA DAYTONA BEACH CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2498.ts
+#EXTINF:-1,USA | FLORIDA HOLIDAY INN CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2493.ts
+#EXTINF:-1,USA | FNTSY SPORTS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30942.ts
+#EXTINF:-1,USA | FOOD NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1026.ts
+#EXTINF:-1,USA | FOX 02 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30070.ts
+#EXTINF:-1,USA | FOX 05 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30068.ts
+#EXTINF:-1,USA | FOX 19 NOW ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10220.ts
+#EXTINF:-1,USA | FOX 29 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30064.ts
+#EXTINF:-1,USA | FOX 32 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30063.ts
+#EXTINF:-1,USA | FOX 9 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30062.ts
+#EXTINF:-1,USA | FOX BUSINESS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/863.ts
+#EXTINF:-1,USA | FOX NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/354.ts
+#EXTINF:-1,USA | FOX SPORTS 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/142.ts
+#EXTINF:-1,USA | FOX SPORTS 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/143.ts
+#EXTINF:-1,USA | FOX SPORTS OHIO ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10204.ts
+#EXTINF:-1,USA | FOX SPORTS OHIO+ ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30619.ts
+#EXTINF:-1,USA | FRANCE 24 NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2055.ts
+#EXTINF:-1,USA | FREEFORM EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/854.ts
+#EXTINF:-1,USA | FRONT DOOR CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30274.ts
+#EXTINF:-1,USA | FUSE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2475.ts
+#EXTINF:-1,USA | FUSION ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3956.ts
+#EXTINF:-1,USA | FX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/382.ts
+#EXTINF:-1,USA | FXM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1478.ts
+#EXTINF:-1,USA | FXX EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/811.ts
+#EXTINF:-1,USA | FXX WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30593.ts
+#EXTINF:-1,USA | GLORY KICKBOXING ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8486.ts
+#EXTINF:-1,USA | GRIT TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2392.ts
+#EXTINF:-1,USA | GSN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/372.ts
+#EXTINF:-1,USA | HALLMARK DRAMA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28741.ts
+#EXTINF:-1,USA | HALLMARK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1598.ts
+#EXTINF:-1,USA | HALLMARK M&M ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/328.ts
+#EXTINF:-1,USA | HBO 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12697.ts
+#EXTINF:-1,USA | HBO COMEDY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/695.ts
+#EXTINF:-1,USA | HBO FAMILY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28740.ts
+#EXTINF:-1,USA | HBO ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/829.ts
+#EXTINF:-1,USA | HBO SIGNATURE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1187.ts
+#EXTINF:-1,USA | HBO ZONE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1301.ts
+#EXTINF:-1,USA | HDNET MOVIES ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/31082.ts
+#EXTINF:-1,USA | HGTV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/417.ts
+#EXTINF:-1,USA | HISTORY CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/191.ts
+#EXTINF:-1,USA | HIT TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13503.ts
+#EXTINF:-1,USA | HLN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/698.ts
+#EXTINF:-1,USA | HOGS BREATH STAGE CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2492.ts
+#EXTINF:-1,USA | HORROR CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30277.ts
+#EXTINF:-1,USA | IFC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10213.ts
+#EXTINF:-1,USA | INVESTIGATION DISCOVERY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/176.ts
+#EXTINF:-1,USA | ION TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2337.ts
+#EXTINF:-1,USA | KEEP IT COUNTRY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12159.ts
+#EXTINF:-1,USA | KEY WEST TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2436.ts
+#EXTINF:-1,USA | LAS VEGAS NEVADA CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2504.ts
+#EXTINF:-1,USA | LAW & CRIME TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29544.ts
+#EXTINF:-1,USA | LIFETIME ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1559.ts
+#EXTINF:-1,USA | LIFETIME MOVIE NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2477.ts
+#EXTINF:-1,USA | LOGO TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28912.ts
+#EXTINF:-1,USA | ME TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3376.ts
+#EXTINF:-1,USA | MGM CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28743.ts
+#EXTINF:-1,USA | MOTOGP 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4439.ts
+#EXTINF:-1,USA | MOVEE 4U ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8474.ts
+#EXTINF:-1,USA | MSG ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28762.ts
+#EXTINF:-1,USA | MSG PLUS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28742.ts
+#EXTINF:-1,USA | MSNBC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/216.ts
+#EXTINF:-1,USA | MTV HD ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/982.ts
+#EXTINF:-1,USA | MTV LIVE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2920.ts
+#EXTINF:-1,USA | MUTV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1237.ts
+#EXTINF:-1,USA | MY20 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29836.ts
+#EXTINF:-1,USA | MY9 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29834.ts
+#EXTINF:-1,USA | NAT GEO CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/334.ts
+#EXTINF:-1,USA | NAT GEO WILD ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/190.ts
+#EXTINF:-1,USA | NATUREVISION TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/26378.ts
+#EXTINF:-1,USA | NBA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/147.ts
+#EXTINF:-1,USA | NBC 4 NY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29872.ts
+#EXTINF:-1,USA | NBC EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/781.ts
+#EXTINF:-1,USA | NBC EAST II ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1851.ts
+#EXTINF:-1,USA | NBC GOLF ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/957.ts
+#EXTINF:-1,USA | NBCSN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/921.ts
+#EXTINF:-1,USA | NESN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8497.ts
+#EXTINF:-1,USA | NESN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4987.ts
+#EXTINF:-1,USA | NEW ORLEANS TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8496.ts
+#EXTINF:-1,USA | NEW YORK NIAGARA FALLS CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2497.ts
+#EXTINF:-1,USA | NEWS 12: BROOKLYN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13216.ts
+#EXTINF:-1,USA | NEWS 12: CONNECTICUT ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13222.ts
+#EXTINF:-1,USA | NEWS 12: HUDSON VALLEY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13214.ts
+#EXTINF:-1,USA | NEWS 12: LONG ISLAND ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13215.ts
+#EXTINF:-1,USA | NEWS 12: NEW JERSEY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13225.ts
+#EXTINF:-1,USA | NEWS 12: THE BRONX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13217.ts
+#EXTINF:-1,USA | NFL NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/146.ts
+#EXTINF:-1,USA | NHL NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/414.ts
+#EXTINF:-1,USA | NICK JR ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/975.ts
+#EXTINF:-1,USA | NICKELODEON ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28757.ts
+#EXTINF:-1,USA | NICKTOONS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4029.ts
+#EXTINF:-1,USA | NYC 47TH & BROADWAY CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12607.ts
+#EXTINF:-1,USA | NYC 5TH AVENUE CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12606.ts
+#EXTINF:-1,USA | NYC CROSSROADS CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12608.ts
+#EXTINF:-1,USA | NYC STREET CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9719.ts
+#EXTINF:-1,USA | NYC TIMES SQUARE CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29704.ts
+#EXTINF:-1,USA | NYC WALL STREET CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2514.ts
+#EXTINF:-1,USA | OUTDOOR CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1560.ts
+#EXTINF:-1,USA | OUTDOOR COOKING ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12653.ts
+#EXTINF:-1,USA | OWN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1069.ts
+#EXTINF:-1,USA | OXYGEN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1304.ts
+#EXTINF:-1,USA | PAC 12 ARIZONA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4952.ts
+#EXTINF:-1,USA | PAC 12 BAY AREA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4951.ts
+#EXTINF:-1,USA | PAC 12 LOS ANGELES ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4950.ts
+#EXTINF:-1,USA | PAC 12 MOUNTAIN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/205.ts
+#EXTINF:-1,USA | PAC 12 OREGON ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4948.ts
+#EXTINF:-1,USA | PAC 12 WASHINGTON ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4947.ts
+#EXTINF:-1,USA | PARAMOUNT NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/709.ts
+#EXTINF:-1,USA | PBS KIDS EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29645.ts
+#EXTINF:-1,USA | PLUTO TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3707.ts
+#EXTINF:-1,USA | POP TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3669.ts
+#EXTINF:-1,USA | PRESS TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8493.ts
+#EXTINF:-1,USA | QVC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/184.ts
+#EXTINF:-1,USA | RACING UK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/307.ts
+#EXTINF:-1,USA | RADIO U ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10036.ts
+#EXTINF:-1,USA | RED BULL TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/26381.ts
+#EXTINF:-1,USA | REELZ ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1136.ts
+#EXTINF:-1,USA | RINGSIDE NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12652.ts
+#EXTINF:-1,USA | ROCK TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/13185.ts
+#EXTINF:-1,USA | SAN FRANCISCO BAY CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2527.ts
+#EXTINF:-1,USA | SEC NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/137.ts
+#EXTINF:-1,USA | SHOWTIME 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12161.ts
+#EXTINF:-1,USA | SHOWTIME EXTREME ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12605.ts
+#EXTINF:-1,USA | SHOWTIME ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1448.ts
+#EXTINF:-1,USA | SHOWTIME SHOWCASE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1561.ts
+#EXTINF:-1,USA | SIDEWALKS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29546.ts
+#EXTINF:-1,USA | SMITHSONIAN CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3045.ts
+#EXTINF:-1,USA | SNY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10221.ts
+#EXTINF:-1,USA | SONY MOVIE CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8482.ts
+#EXTINF:-1,USA | SONY MOVIES ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/26380.ts
+#EXTINF:-1,USA | SOUTH CAROLINA MYRTLE BEACH CAM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2499.ts
+#EXTINF:-1,USA | SPIRIT TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9743.ts
+#EXTINF:-1,USA | SPORTS NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4442.ts
+#EXTINF:-1,USA | SPORTS PREMIER LEAGUE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/4440.ts
+#EXTINF:-1,USA | SPORTSNET 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/150.ts
+#EXTINF:-1,USA | SPORTSNET 360 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3649.ts
+#EXTINF:-1,USA | SPORTSNET CENTRAL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29830.ts
+#EXTINF:-1,USA | SPORTSNET PACIFIC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3648.ts
+#EXTINF:-1,USA | SPORTSNET WORLD ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/3646.ts
+#EXTINF:-1,USA | STARZ COMEDY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/6567.ts
+#EXTINF:-1,USA | STARZ ENCORE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/6568.ts
+#EXTINF:-1,USA | STARZ ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/6566.ts
+#EXTINF:-1,USA | STARZ KIDS & FAMILY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/6563.ts
+#EXTINF:-1,USA | STARZ SUSPENSE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/6569.ts
+#EXTINF:-1,USA | SUNDANCE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1485.ts
+#EXTINF:-1,USA | SYFY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/803.ts
+#EXTINF:-1,USA | TBS EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/387.ts
+#EXTINF:-1,USA | TBS WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28914.ts
+#EXTINF:-1,USA | TCM ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28299.ts
+#EXTINF:-1,USA | TEEN NICK
+http://wildsides.xyz:2086/live/ola/12345/31087.ts
+#EXTINF:-1,USA | TENNIS CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/900.ts
+#EXTINF:-1,USA | THE BLAZE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2465.ts
+#EXTINF:-1,USA | THE CW ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/987.ts
+#EXTINF:-1,USA | THE LONGHORN NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10214.ts
+#EXTINF:-1,USA | TLC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/703.ts
+#EXTINF:-1,USA | TNT ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/339.ts
+#EXTINF:-1,USA | TRAILER TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30275.ts
+#EXTINF:-1,USA | TRAVEL CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1510.ts
+#EXTINF:-1,USA | TRU TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/860.ts
+#EXTINF:-1,USA | TUFF TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1738.ts
+#EXTINF:-1,USA | TV LAND ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/393.ts
+#EXTINF:-1,USA | TV ONE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2478.ts
+#EXTINF:-1,USA | UEFA TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/30276.ts
+#EXTINF:-1,USA | UFC NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8485.ts
+#EXTINF:-1,USA | UNITED NATIONS TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29548.ts
+#EXTINF:-1,USA | UNIVERSAL CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2417.ts
+#EXTINF:-1,USA | USA NETWORK EAST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/229.ts
+#EXTINF:-1,USA | USA NETWORK WEST ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/28738.ts
+#EXTINF:-1,USA | VELOCITY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/719.ts
+#EXTINF:-1,USA | VH1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/801.ts
+#EXTINF:-1,USA | VICELAND ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/861.ts
+#EXTINF:-1,USA | VTV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/1873.ts
+#EXTINF:-1,USA | WE TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10209.ts
+#EXTINF:-1,USA | WEATHER CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/385.ts
+#EXTINF:-1,USA | WESTERNS 4U ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/8472.ts
+#EXTINF:-1,USA | WGN 9 NEWS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/341.ts
+#EXTINF:-1,USA | WGN AMERICA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/2588.ts
+#EXTINF:-1,USA | WILLOW CRICKET ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/29623.ts
+#EXTINF:-1,USA | WWE NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/981.ts
+#EXTINF:-1,USA | XITE NOW ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/12880.ts
+#EXTINF:-1,USA | YES NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/9773.ts
+#EXTINF:-1,USA1 | A&E ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10386.ts
+#EXTINF:-1,USA1 | AKC TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/16808.ts
+#EXTINF:-1,USA1 | AMC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10387.ts
+#EXTINF:-1,USA1 | AMERICAN HEROES CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10347.ts
+#EXTINF:-1,USA1 | ANIMAL PLANET ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10346.ts
+#EXTINF:-1,USA1 | ATLANTA CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5743.ts
+#EXTINF:-1,USA1 | AXS TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/11554.ts
+#EXTINF:-1,USA1 | BBC AMERICA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10385.ts
+#EXTINF:-1,USA1 | BEACH TV 1 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5742.ts
+#EXTINF:-1,USA1 | BEACH TV 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5741.ts
+#EXTINF:-1,USA1 | BEACH TV 3 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5740.ts
+#EXTINF:-1,USA1 | BEIN SPORTS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10573.ts
+#EXTINF:-1,USA1 | BEIN SPORTS N ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10572.ts
+#EXTINF:-1,USA1 | BET HER ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10295.ts
+#EXTINF:-1,USA1 | BIG TEN NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10305.ts
+#EXTINF:-1,USA1 | BOOMERANG ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10345.ts
+#EXTINF:-1,USA1 | BOWIE TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5739.ts
+#EXTINF:-1,USA1 | BRAVO ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10384.ts
+#EXTINF:-1,USA1 | BUFFALO TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5738.ts
+#EXTINF:-1,USA1 | BUZZR ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10294.ts
+#EXTINF:-1,USA1 | C-SPAN 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5774.ts
+#EXTINF:-1,USA1 | C-SPAN 3 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5773.ts
+#EXTINF:-1,USA1 | C-SPAN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5775.ts
+#EXTINF:-1,USA1 | CALIFORNIA MUSIC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5757.ts
+#EXTINF:-1,USA1 | CAPITAL CITY CONNECTION ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5737.ts
+#EXTINF:-1,USA1 | CBS SPORTS NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10301.ts
+#EXTINF:-1,USA1 | CELEBRITY PAGE TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/16809.ts
+#EXTINF:-1,USA1 | CINEMAX ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10344.ts
+#EXTINF:-1,USA1 | CNBC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10382.ts
+#EXTINF:-1,USA1 | CNBC WORLD ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10571.ts
+#EXTINF:-1,USA1 | CNN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10343.ts
+#EXTINF:-1,USA1 | COMEDY CENTRAL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10342.ts
+#EXTINF:-1,USA1 | COOKING CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10341.ts
+#EXTINF:-1,USA1 | CW ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10340.ts
+#EXTINF:-1,USA1 | DESTINATION AMERICA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10339.ts
+#EXTINF:-1,USA1 | DISCOVERY CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10338.ts
+#EXTINF:-1,USA1 | DISCOVERY FAMILY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10320.ts
+#EXTINF:-1,USA1 | DISCOVERY LIFE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10319.ts
+#EXTINF:-1,USA1 | DISCOVERY SCIENCE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10337.ts
+#EXTINF:-1,USA1 | DISNEY CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10324.ts
+#EXTINF:-1,USA1 | DISNEY JR ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10323.ts
+#EXTINF:-1,USA1 | DISNEY XD ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10322.ts
+#EXTINF:-1,USA1 | DISTRICT KNOWLEDGE NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5735.ts
+#EXTINF:-1,USA1 | DISTRICT OF COLUMBIA NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5736.ts
+#EXTINF:-1,USA1 | DIY ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10336.ts
+#EXTINF:-1,USA1 | E! ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10371.ts
+#EXTINF:-1,USA1 | EL REY NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/10379.ts
+#EXTINF:-1,USA1 | ELEVEN SPORTS 1
+http://wildsides.xyz:2086/live/ola/12345/10570.ts
+#EXTINF:-1,USA1 | ELEVEN SPORTS 2
+http://wildsides.xyz:2086/live/ola/12345/10569.ts
+#EXTINF:-1,USA1 | ESCAPE TV
+http://wildsides.xyz:2086/live/ola/12345/11096.ts
+#EXTINF:-1,USA1 | ESPN
+http://wildsides.xyz:2086/live/ola/12345/10317.ts
+#EXTINF:-1,USA1 | ESPN 2
+http://wildsides.xyz:2086/live/ola/12345/10316.ts
+#EXTINF:-1,USA1 | ESPN NEWS
+http://wildsides.xyz:2086/live/ola/12345/10314.ts
+#EXTINF:-1,USA1 | ESPN U
+http://wildsides.xyz:2086/live/ola/12345/10315.ts
+#EXTINF:-1,USA1 | EXITE
+http://wildsides.xyz:2086/live/ola/12345/10568.ts
+#EXTINF:-1,USA1 | FIGHT NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10348.ts
+#EXTINF:-1,USA1 | FOOD NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10378.ts
+#EXTINF:-1,USA1 | FOX BUSINESS
+http://wildsides.xyz:2086/live/ola/12345/10565.ts
+#EXTINF:-1,USA1 | FOX COLLEGE ATLANTIC
+http://wildsides.xyz:2086/live/ola/12345/10564.ts
+#EXTINF:-1,USA1 | FOX COLLEGE CENTRAL
+http://wildsides.xyz:2086/live/ola/12345/10563.ts
+#EXTINF:-1,USA1 | FOX COLLEGE PACIFIC
+http://wildsides.xyz:2086/live/ola/12345/10566.ts
+#EXTINF:-1,USA1 | FOX NEWS
+http://wildsides.xyz:2086/live/ola/12345/10375.ts
+#EXTINF:-1,USA1 | FOX SOCCER PLUS
+http://wildsides.xyz:2086/live/ola/12345/10562.ts
+#EXTINF:-1,USA1 | FOX SPORTS 1
+http://wildsides.xyz:2086/live/ola/12345/10313.ts
+#EXTINF:-1,USA1 | FOX SPORTS 1 FHD
+http://wildsides.xyz:2086/live/ola/12345/10561.ts
+#EXTINF:-1,USA1 | FOX SPORTS 2
+http://wildsides.xyz:2086/live/ola/12345/10312.ts
+#EXTINF:-1,USA1 | FOX SPORTS 2 FHD
+http://wildsides.xyz:2086/live/ola/12345/10560.ts
+#EXTINF:-1,USA1 | FOX SPORTS YES
+http://wildsides.xyz:2086/live/ola/12345/10298.ts
+#EXTINF:-1,USA1 | FREE SPEECH TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5770.ts
+#EXTINF:-1,USA1 | FUSE
+http://wildsides.xyz:2086/live/ola/12345/10559.ts
+#EXTINF:-1,USA1 | FUSION TV
+http://wildsides.xyz:2086/live/ola/12345/10377.ts
+#EXTINF:-1,USA1 | FX
+http://wildsides.xyz:2086/live/ola/12345/10374.ts
+#EXTINF:-1,USA1 | FXM
+http://wildsides.xyz:2086/live/ola/12345/10558.ts
+#EXTINF:-1,USA1 | FXM RETRO
+http://wildsides.xyz:2086/live/ola/12345/10372.ts
+#EXTINF:-1,USA1 | FXX
+http://wildsides.xyz:2086/live/ola/12345/10373.ts
+#EXTINF:-1,USA1 | FYI
+http://wildsides.xyz:2086/live/ola/12345/10335.ts
+#EXTINF:-1,USA1 | GAME SHOW NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10334.ts
+#EXTINF:-1,USA1 | GOL TV
+http://wildsides.xyz:2086/live/ola/12345/10557.ts
+#EXTINF:-1,USA1 | GOLF CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10300.ts
+#EXTINF:-1,USA1 | GREENBELT TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5733.ts
+#EXTINF:-1,USA1 | HALLMARK CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10369.ts
+#EXTINF:-1,USA1 | HALLMARK DRAMA
+http://wildsides.xyz:2086/live/ola/12345/10370.ts
+#EXTINF:-1,USA1 | HALLMARK MOVIES
+http://wildsides.xyz:2086/live/ola/12345/10368.ts
+#EXTINF:-1,USA1 | HBO EAST
+http://wildsides.xyz:2086/live/ola/12345/10333.ts
+#EXTINF:-1,USA1 | HGTV
+http://wildsides.xyz:2086/live/ola/12345/10366.ts
+#EXTINF:-1,USA1 | HISTORY CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10367.ts
+#EXTINF:-1,USA1 | HLN
+http://wildsides.xyz:2086/live/ola/12345/10332.ts
+#EXTINF:-1,USA1 | HOUSE OF REPRESENTATIVES ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5732.ts
+#EXTINF:-1,USA1 | IFC
+http://wildsides.xyz:2086/live/ola/12345/10365.ts
+#EXTINF:-1,USA1 | IMPACT WRESTLING ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/16469.ts
+#EXTINF:-1,USA1 | INFOWARS ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5768.ts
+#EXTINF:-1,USA1 | INVESTIGATION DISCOVERY
+http://wildsides.xyz:2086/live/ola/12345/10364.ts
+#EXTINF:-1,USA1 | ION
+http://wildsides.xyz:2086/live/ola/12345/10321.ts
+#EXTINF:-1,USA1 | JEWELRY TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/16811.ts
+#EXTINF:-1,USA1 | KBVR TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5731.ts
+#EXTINF:-1,USA1 | KEY TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5730.ts
+#EXTINF:-1,USA1 | KOOL TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5729.ts
+#EXTINF:-1,USA1 | LIFETIME
+http://wildsides.xyz:2086/live/ola/12345/10363.ts
+#EXTINF:-1,USA1 | LIFETIME MOVIE NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10362.ts
+#EXTINF:-1,USA1 | LIFETIME MOVIES
+http://wildsides.xyz:2086/live/ola/12345/10556.ts
+#EXTINF:-1,USA1 | LONGHORN NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10307.ts
+#EXTINF:-1,USA1 | ME TV
+http://wildsides.xyz:2086/live/ola/12345/10361.ts
+#EXTINF:-1,USA1 | MGM CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10381.ts
+#EXTINF:-1,USA1 | MLB NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10299.ts
+#EXTINF:-1,USA1 | MLB NETWORK ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5766.ts
+#EXTINF:-1,USA1 | MSG
+http://wildsides.xyz:2086/live/ola/12345/10310.ts
+#EXTINF:-1,USA1 | MSNBC
+http://wildsides.xyz:2086/live/ola/12345/10331.ts
+#EXTINF:-1,USA1 | MSNBC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5778.ts
+#EXTINF:-1,USA1 | NAT GEO
+http://wildsides.xyz:2086/live/ola/12345/10555.ts
+#EXTINF:-1,USA1 | NAT GEO WILD
+http://wildsides.xyz:2086/live/ola/12345/10359.ts
+#EXTINF:-1,USA1 | NATIONAL GEOGRAPHIC
+http://wildsides.xyz:2086/live/ola/12345/10360.ts
+#EXTINF:-1,USA1 | NBA NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10554.ts
+#EXTINF:-1,USA1 | NBA TV
+http://wildsides.xyz:2086/live/ola/12345/10304.ts
+#EXTINF:-1,USA1 | NBCSN
+http://wildsides.xyz:2086/live/ola/12345/10302.ts
+#EXTINF:-1,USA1 | NFL NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10303.ts
+#EXTINF:-1,USA1 | NFL NOW ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5765.ts
+#EXTINF:-1,USA1 | ORANGE TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5727.ts
+#EXTINF:-1,USA1 | OUTDOOR CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10318.ts
+#EXTINF:-1,USA1 | OUTSIDE TV
+http://wildsides.xyz:2086/live/ola/12345/10388.ts
+#EXTINF:-1,USA1 | OWN
+http://wildsides.xyz:2086/live/ola/12345/10330.ts
+#EXTINF:-1,USA1 | OXYGEN
+http://wildsides.xyz:2086/live/ola/12345/10358.ts
+#EXTINF:-1,USA1 | PAC 12 WASHINGTON ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5758.ts
+#EXTINF:-1,USA1 | PAC-12 ARIZONA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5764.ts
+#EXTINF:-1,USA1 | PAC-12 BAY AREA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5763.ts
+#EXTINF:-1,USA1 | PAC-12 LOS ANGELES ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5762.ts
+#EXTINF:-1,USA1 | PAC-12 MOUNTAIN ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5761.ts
+#EXTINF:-1,USA1 | PAC-12 NATIONAL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5760.ts
+#EXTINF:-1,USA1 | PAC-12 OREGON ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5759.ts
+#EXTINF:-1,USA1 | PARAMOUNT NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10297.ts
+#EXTINF:-1,USA1 | POP TV
+http://wildsides.xyz:2086/live/ola/12345/10329.ts
+#EXTINF:-1,USA1 | QVC ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5750.ts
+#EXTINF:-1,USA1 | REELZ
+http://wildsides.xyz:2086/live/ola/12345/10296.ts
+#EXTINF:-1,USA1 | REVOLT
+http://wildsides.xyz:2086/live/ola/12345/10357.ts
+#EXTINF:-1,USA1 | RT AMERICA ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5767.ts
+#EXTINF:-1,USA1 | SEC NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10306.ts
+#EXTINF:-1,USA1 | SEMINOLE TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5725.ts
+#EXTINF:-1,USA1 | SNY
+http://wildsides.xyz:2086/live/ola/12345/10311.ts
+#EXTINF:-1,USA1 | SOUTHEASTERN CHANNEL ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5724.ts
+#EXTINF:-1,USA1 | SUNDANCE
+http://wildsides.xyz:2086/live/ola/12345/10550.ts
+#EXTINF:-1,USA1 | SUNDANCETV
+http://wildsides.xyz:2086/live/ola/12345/10356.ts
+#EXTINF:-1,USA1 | SYFY
+http://wildsides.xyz:2086/live/ola/12345/10355.ts
+#EXTINF:-1,USA1 | TCM
+http://wildsides.xyz:2086/live/ola/12345/10328.ts
+#EXTINF:-1,USA1 | TEMPLE TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5723.ts
+#EXTINF:-1,USA1 | THE BLAZE ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5769.ts
+#EXTINF:-1,USA1 | THE GOLF CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10549.ts
+#EXTINF:-1,USA1 | THE OLYMPIC CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10553.ts
+#EXTINF:-1,USA1 | THE WEATHER CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10548.ts
+#EXTINF:-1,USA1 | TLC
+http://wildsides.xyz:2086/live/ola/12345/10327.ts
+#EXTINF:-1,USA1 | TRAVEL CHANNEL
+http://wildsides.xyz:2086/live/ola/12345/10354.ts
+#EXTINF:-1,USA1 | TRU TV
+http://wildsides.xyz:2086/live/ola/12345/10326.ts
+#EXTINF:-1,USA1 | TSTV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5722.ts
+#EXTINF:-1,USA1 | TUFF TV ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5748.ts
+#EXTINF:-1,USA1 | TVW 2 ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5720.ts
+#EXTINF:-1,USA1 | TVW ʜᴅ
+http://wildsides.xyz:2086/live/ola/12345/5721.ts
+#EXTINF:-1,USA1 | UNIVERSAL KIDS
+http://wildsides.xyz:2086/live/ola/12345/10349.ts
+#EXTINF:-1,USA1 | UNIVISION
+http://wildsides.xyz:2086/live/ola/12345/10353.ts
+#EXTINF:-1,USA1 | USA NETWORK
+http://wildsides.xyz:2086/live/ola/12345/10352.ts
+#EXTINF:-1,USA1 | VELOCITY
+http://wildsides.xyz:2086/live/ola/12345/10325.ts
+#EXTINF:-1,USA1 | VICELAND
+http://wildsides.xyz:2086/live/ola/12345/10351.ts
+#EXTINF:-1,USA1 | WE TV
+http://wildsides.xyz:2086/live/ola/12345/10350.ts
+
+#EXTINF:-1,US: A & E
+http://server.iptvforver.com:8000/live/francois/francois/1990.ts
+#EXTINF:-1,US: ABC News HD
+http://server.iptvforver.com:8000/live/francois/francois/1989.ts
+#EXTINF:-1,US: AFN MOVIE
+http://server.iptvforver.com:8000/live/francois/francois/1988.ts
+#EXTINF:-1,US: AFN PULSE
+http://server.iptvforver.com:8000/live/francois/francois/1987.ts
+#EXTINF:-1,US: AFN SPORTS
+http://server.iptvforver.com:8000/live/francois/francois/1986.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://server.iptvforver.com:8000/live/francois/francois/1985.ts
+#EXTINF:-1,US: Amazing Facts TV
+http://server.iptvforver.com:8000/live/francois/francois/1984.ts
+#EXTINF:-1,US: AMC HD
+http://server.iptvforver.com:8000/live/francois/francois/1983.ts
+#EXTINF:-1,US: AMG TV
+http://server.iptvforver.com:8000/live/francois/francois/1982.ts
+#EXTINF:-1,US: Animal Planet
+http://server.iptvforver.com:8000/live/francois/francois/1981.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://server.iptvforver.com:8000/live/francois/francois/1980.ts
+#EXTINF:-1,US: Beto TV
+http://server.iptvforver.com:8000/live/francois/francois/1979.ts
+#EXTINF:-1,US: Bloomberg
+http://server.iptvforver.com:8000/live/francois/francois/1978.ts
+#EXTINF:-1,US: Boston City TV
+http://server.iptvforver.com:8000/live/francois/francois/1977.ts
+#EXTINF:-1,US: Bravo HD
+http://server.iptvforver.com:8000/live/francois/francois/1976.ts
+#EXTINF:-1,US: BYU Sports TV HD
+http://server.iptvforver.com:8000/live/francois/francois/1975.ts
+#EXTINF:-1,US: C-Span1
+http://server.iptvforver.com:8000/live/francois/francois/1974.ts
+#EXTINF:-1,US: CBS HD
+http://server.iptvforver.com:8000/live/francois/francois/1973.ts
+#EXTINF:-1,US: CBS News HD
+http://server.iptvforver.com:8000/live/francois/francois/1972.ts
+#EXTINF:-1,US: CBSN HD
+http://server.iptvforver.com:8000/live/francois/francois/1971.ts
+#EXTINF:-1,US: CNBC
+http://server.iptvforver.com:8000/live/francois/francois/1970.ts
+#EXTINF:-1,US: CNBS HD
+http://server.iptvforver.com:8000/live/francois/francois/1969.ts
+#EXTINF:-1,US: CNN HD
+http://server.iptvforver.com:8000/live/francois/francois/1968.ts
+#EXTINF:-1,US: Comedy Central HD
+http://server.iptvforver.com:8000/live/francois/francois/1967.ts
+#EXTINF:-1,US: Cpac
+http://server.iptvforver.com:8000/live/francois/francois/1966.ts
+#EXTINF:-1,US: E!
+http://server.iptvforver.com:8000/live/francois/francois/1965.ts
+#EXTINF:-1,US: ESPN HD
+http://server.iptvforver.com:8000/live/francois/francois/1964.ts
+#EXTINF:-1,US: Fight Network
+http://server.iptvforver.com:8000/live/francois/francois/1963.ts
+#EXTINF:-1,US: Food Network
+http://server.iptvforver.com:8000/live/francois/francois/1962.ts
+#EXTINF:-1,US: Fox 59 News
+http://server.iptvforver.com:8000/live/francois/francois/1961.ts
+#EXTINF:-1,US: Fox HD
+http://server.iptvforver.com:8000/live/francois/francois/1960.ts
+#EXTINF:-1,US: Fox Sports 506 HD
+http://server.iptvforver.com:8000/live/francois/francois/1959.ts
+#EXTINF:-1,US: FX HD
+http://server.iptvforver.com:8000/live/francois/francois/1958.ts
+#EXTINF:-1,US: Global TV BC
+http://server.iptvforver.com:8000/live/francois/francois/1957.ts
+#EXTINF:-1,US: Global TV Halifax
+http://server.iptvforver.com:8000/live/francois/francois/1956.ts
+#EXTINF:-1,US: Global TV Toronto
+http://server.iptvforver.com:8000/live/francois/francois/1955.ts
+#EXTINF:-1,US: H2
+http://server.iptvforver.com:8000/live/francois/francois/1954.ts
+#EXTINF:-1,US: Hallmark
+http://server.iptvforver.com:8000/live/francois/francois/1953.ts
+#EXTINF:-1,US: HBO Comedy
+http://server.iptvforver.com:8000/live/francois/francois/1952.ts
+#EXTINF:-1,US: HBO Family
+http://server.iptvforver.com:8000/live/francois/francois/1951.ts
+#EXTINF:-1,US: HBO HD
+http://server.iptvforver.com:8000/live/francois/francois/1950.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://server.iptvforver.com:8000/live/francois/francois/1949.ts
+#EXTINF:-1,US: HBO ZONE
+http://server.iptvforver.com:8000/live/francois/francois/1948.ts
+#EXTINF:-1,US: HGTV
+http://server.iptvforver.com:8000/live/francois/francois/1947.ts
+#EXTINF:-1,US: HIFI
+http://server.iptvforver.com:8000/live/francois/francois/1946.ts
+#EXTINF:-1,US: HSN 1
+http://server.iptvforver.com:8000/live/francois/francois/1945.ts
+#EXTINF:-1,US: HSN 2
+http://server.iptvforver.com:8000/live/francois/francois/1944.ts
+#EXTINF:-1,US: KTVU News
+http://server.iptvforver.com:8000/live/francois/francois/1943.ts
+#EXTINF:-1,US: LIFETIME HD
+http://server.iptvforver.com:8000/live/francois/francois/1942.ts
+#EXTINF:-1,US: Max West
+http://server.iptvforver.com:8000/live/francois/francois/1941.ts
+#EXTINF:-1,US: Mello TV
+http://server.iptvforver.com:8000/live/francois/francois/1940.ts
+#EXTINF:-1,US: Miami TV
+http://server.iptvforver.com:8000/live/francois/francois/1939.ts
+#EXTINF:-1,US: Motor Sports 7 HD
+http://server.iptvforver.com:8000/live/francois/francois/1938.ts
+#EXTINF:-1,US: Mute TV
+http://server.iptvforver.com:8000/live/francois/francois/1937.ts
+#EXTINF:-1,US: Nasa TV HD
+http://server.iptvforver.com:8000/live/francois/francois/1936.ts
+#EXTINF:-1,US: National Geographic HD
+http://server.iptvforver.com:8000/live/francois/francois/1935.ts
+#EXTINF:-1,US: NBA HD
+http://server.iptvforver.com:8000/live/francois/francois/1934.ts
+#EXTINF:-1,US: NBC Golf HD
+http://server.iptvforver.com:8000/live/francois/francois/1933.ts
+#EXTINF:-1,US: NBC HD
+http://server.iptvforver.com:8000/live/francois/francois/1932.ts
+#EXTINF:-1,US: News 12
+http://server.iptvforver.com:8000/live/francois/francois/1931.ts
+#EXTINF:-1,US: Nickelodeon HD
+http://server.iptvforver.com:8000/live/francois/francois/1930.ts
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://server.iptvforver.com:8000/live/francois/francois/1929.ts
+#EXTINF:-1,US: PAG HD
+http://server.iptvforver.com:8000/live/francois/francois/1928.ts
+#EXTINF:-1,US: PBS HD
+http://server.iptvforver.com:8000/live/francois/francois/1927.ts
+#EXTINF:-1,US: Pocker Central
+http://server.iptvforver.com:8000/live/francois/francois/1926.ts
+#EXTINF:-1,US: Redbull TV
+http://server.iptvforver.com:8000/live/francois/francois/1925.ts
+#EXTINF:-1,US: RT America HD
+http://server.iptvforver.com:8000/live/francois/francois/1924.ts
+#EXTINF:-1,US: RT Documentary
+http://server.iptvforver.com:8000/live/francois/francois/1923.ts
+#EXTINF:-1,US: Showtime 2
+http://server.iptvforver.com:8000/live/francois/francois/1922.ts
+#EXTINF:-1,US: Showtime HD
+http://server.iptvforver.com:8000/live/francois/francois/1921.ts
+#EXTINF:-1,US: Showtime West
+http://server.iptvforver.com:8000/live/francois/francois/1920.ts
+#EXTINF:-1,US: Sony Movie Channel HD
+http://server.iptvforver.com:8000/live/francois/francois/1919.ts
+#EXTINF:-1,US: Sports Night
+http://server.iptvforver.com:8000/live/francois/francois/1918.ts
+#EXTINF:-1,US: TBS HD
+http://server.iptvforver.com:8000/live/francois/francois/1917.ts
+#EXTINF:-1,US: Tech Channel
+http://server.iptvforver.com:8000/live/francois/francois/1916.ts
+#EXTINF:-1,US: Ten Cricket
+http://server.iptvforver.com:8000/live/francois/francois/1915.ts
+#EXTINF:-1,US: The Florida Channel
+http://server.iptvforver.com:8000/live/francois/francois/1914.ts
+#EXTINF:-1,US: TLC
+http://server.iptvforver.com:8000/live/francois/francois/1913.ts
+#EXTINF:-1,US: TNT HD
+http://server.iptvforver.com:8000/live/francois/francois/1912.ts
+#EXTINF:-1,US: Toonami Aftermath
+http://server.iptvforver.com:8000/live/francois/francois/1911.ts
+#EXTINF:-1,US: TSC
+http://server.iptvforver.com:8000/live/francois/francois/1910.ts
+#EXTINF:-1,US: TV Land
+http://server.iptvforver.com:8000/live/francois/francois/1909.ts
+#EXTINF:-1,US: UC TV
+http://server.iptvforver.com:8000/live/francois/francois/1908.ts
+#EXTINF:-1,US: USA Network
+http://server.iptvforver.com:8000/live/francois/francois/1907.ts
+#EXTINF:-1,US: Versus NBA HD
+http://server.iptvforver.com:8000/live/francois/francois/1906.ts
+#EXTINF:-1,US: WE TV
+http://server.iptvforver.com:8000/live/francois/francois/1905.ts
+#EXTINF:-1,US: Weather Channel
+http://server.iptvforver.com:8000/live/francois/francois/1904.ts
+#EXTINF:-1,US: WGN News Chicago
+http://server.iptvforver.com:8000/live/francois/francois/1903.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://server.iptvforver.com:8000/live/francois/francois/1902.ts
+#EXTINF:-1,US: World Fashion HD
+http://server.iptvforver.com:8000/live/francois/francois/1901.ts
+#EXTINF:-1,US: WXYZ TV
+http://server.iptvforver.com:8000/live/francois/francois/1900.ts
+
+#EXTINF:-1,|CA| ADDIK TV
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11507.ts
+#EXTINF:-1,|CA| ARTV
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11506.ts
+#EXTINF:-1,|CA|Assemblée Nationale Québec
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11470.ts
+#EXTINF:-1,|CA| CANAL D
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11505.ts
+#EXTINF:-1,|CA| CANAL SAVOIR
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11504.ts
+#EXTINF:-1,|CA| CASA
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11503.ts
+#EXTINF:-1,|CA| CBC MONTREAL
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11502.ts
+#EXTINF:-1,|CA| CINEPOP
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11501.ts
+#EXTINF:-1,|CA| CPAC FRENCH
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11500.ts
+#EXTINF:-1,|CA| HISTORIA
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11475.ts
+#EXTINF:-1,|CA| ICI VANCOUVER
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11474.ts
+#EXTINF:-1,|CA| LCN
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11499.ts
+#EXTINF:-1,|CA| MAX
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11495.ts
+#EXTINF:-1,|CA| METEO
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11497.ts
+#EXTINF:-1,|CA| MOI & CIE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11496.ts
+#EXTINF:-1,|CA| MUSIQUE PLUS
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11494.ts
+#EXTINF:-1,|CA| PRISE 2
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11493.ts
+#EXTINF:-1,|CA| RDI
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11492.ts
+#EXTINF:-1,|CA| RDS
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11491.ts
+#EXTINF:-1,|CA| RDS 2
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11490.ts
+#EXTINF:-1,|CA| SERIES+
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11489.ts
+#EXTINF:-1,|CA| SUPER ECRAN 1
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11488.ts
+#EXTINF:-1,|CA| SUPER ECRAN 2
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11487.ts
+#EXTINF:-1,|CA| SUPER ECRAN 3
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11486.ts
+#EXTINF:-1,|CA| SUPER ECRAN 4
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11485.ts
+#EXTINF:-1,|CA| TELEMAGINO
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11498.ts
+#EXTINF:-1,|CA| ICI MONTREAL
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2744.ts
+#EXTINF:-1,|CA| ICI-Television
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/8508.ts
+#EXTINF:-1,|CA|TV-Francophonie
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/8507.ts
+#EXTINF:-1,|CA| VTELE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2740.ts
+#EXTINF:-1,|CA| CANALSAVOIR
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/8037.ts
+#EXTINF:-1,|CA| TVA MONTREAL
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2739.ts
+#EXTINF:-1,|CA| TELETOON
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2743.ts
+#EXTINF:-1,|CA| DISNEY FRENCH
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2745.ts
+#EXTINF:-1,|CA| TELE QUEBEC
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2730.ts
+#EXTINF:-1,|CA| TV5 QUEBEC
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11484.ts
+#EXTINF:-1,|CA| TVA GATINEAU
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11483.ts
+#EXTINF:-1,|CA| TVA QUEBEC
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11482.ts
+#EXTINF:-1,|CA| TVA SPORTS
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11481.ts
+#EXTINF:-1,|CA| CANAL VIE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11480.ts
+#EXTINF:-1,|CA| VRAK TV
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11479.ts
+#EXTINF:-1,|CA| YOOPA
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11478.ts
+#EXTINF:-1,|CA| ZTELE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11477.ts
+#EXTINF:-1,|CA| ZESTE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11476.ts
+#EXTINF:-1,|CA|*****ANGLOPHONE****|CA|
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11454.ts
+#EXTINF:-1,|CA| CTV TORONTO
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11348.ts
+#EXTINF:-1,|CA| MTV2
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11349.ts
+#EXTINF:-1,|CA| HGTV
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11347.ts
+#EXTINF:-1,|CA| SLICE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11352.ts
+#EXTINF:-1,|CA| WORLD FISHING NET
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/11346.ts
+#EXTINF:-1,|CA|ALJALEYA-TV
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/8044.ts
+#EXTINF:-1,|CA| DIY NETWORK
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2741.ts
+#EXTINF:-1,|CA| SUPER CHANNEL 1
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2742.ts
+#EXTINF:-1,|CA| SUPER CHANNEL 2
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2728.ts
+#EXTINF:-1,|CA| SPORTNET 360
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2729.ts
+#EXTINF:-1,|CA| SPORTNET ONTARIO
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2731.ts
+#EXTINF:-1,|CA| SPORTNET ONE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2733.ts
+#EXTINF:-1,|CA| DISCOVERY  VELOCITY
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/2732.ts
+#EXTINF:-1,|USA| ABC 7
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1957.ts
+#EXTINF:-1,|USA| NFL NETWORK HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1949.ts
+#EXTINF:-1,|USA| CBS SPORTS NET
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1953.ts
+#EXTINF:-1,|USA| beINSPORT US
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1969.ts
+#EXTINF:-1,USA:Bravo
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1946.ts
+#EXTINF:-1,|USA| SBTN
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1950.ts
+#EXTINF:-1,|USA| CNN HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1947.ts
+#EXTINF:-1,|USA| ESPN 1HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1959.ts
+#EXTINF:-1,|USA| ESPN 2HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1970.ts
+#EXTINF:-1,|USA| FOOD NETWORK
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1951.ts
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1960.ts
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1961.ts
+#EXTINF:-1,|USA| BTN
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/12819.ts
+#EXTINF:-1,|USA| FX TV HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1945.ts
+#EXTINF:-1,|USA| HBO HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1955.ts
+#EXTINF:-1,|USA| HBO ZONE
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1956.ts
+#EXTINF:-1,|USA| NBA
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1958.ts
+#EXTINF:-1,|USA| NICKTOONS
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1952.ts
+#EXTINF:-1,|USA| FREEFROM
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1948.ts
+#EXTINF:-1,|USA| ABC NEWS
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1962.ts
+#EXTINF:-1,|USA| Travel Channel
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1954.ts
+#EXTINF:-1,|CA| TSN 1HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1963.ts
+#EXTINF:-1,|CA| TSN 2HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1964.ts
+#EXTINF:-1,|CA| TSN  3HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1965.ts
+#EXTINF:-1,|CA| TSN 4HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1966.ts
+#EXTINF:-1,|CA| TSN 5HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1967.ts
+#EXTINF:-1,|USA| WWE HD
+http://iptvpro.watch-vision.net:8789/live/arbi/123456/1968.ts
